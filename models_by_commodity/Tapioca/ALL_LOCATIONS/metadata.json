@@ -1,0 +1,17 @@
+{
+  "commodity": "Tapioca",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9906696081161499,
+  "test_score": 0.9791257977485657,
+  "mse": 10487.192584393173,
+  "mae": 55.539190673828124,
+  "n_samples": 79,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.120564"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Colacasia",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9898208379745483,
+  "test_score": 0.9739577770233154,
+  "mse": 68080.19128278494,
+  "mae": 162.51824544270832,
+  "n_samples": 59,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.227665"
+}

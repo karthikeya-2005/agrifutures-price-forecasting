@@ -1,0 +1,17 @@
+{
+  "commodity": "Onion Green",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999994039535522,
+  "test_score": 0.999452531337738,
+  "mse": 616.8126529380679,
+  "mae": 6.3350372314453125,
+  "n_samples": 125,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.267920"
+}

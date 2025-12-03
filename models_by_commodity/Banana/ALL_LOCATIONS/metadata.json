@@ -1,0 +1,17 @@
+{
+  "commodity": "Banana",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9971833825111389,
+  "test_score": 0.9942234754562378,
+  "mse": 12522.872694324222,
+  "mae": 71.51263821509576,
+  "n_samples": 121,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.560836"
+}

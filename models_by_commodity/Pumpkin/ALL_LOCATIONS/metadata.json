@@ -1,0 +1,17 @@
+{
+  "commodity": "Pumpkin",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9978207349777222,
+  "test_score": 0.9954787492752075,
+  "mse": 2020.5609206902354,
+  "mae": 20.0919189453125,
+  "n_samples": 149,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.684229"
+}

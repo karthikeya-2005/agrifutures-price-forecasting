@@ -1,0 +1,17 @@
+{
+  "commodity": "Potato",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.996012806892395,
+  "test_score": 0.9913355112075806,
+  "mse": 20563.70495099094,
+  "mae": 71.14469347502056,
+  "n_samples": 151,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.629421"
+}

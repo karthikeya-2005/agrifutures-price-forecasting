@@ -1,0 +1,17 @@
+{
+  "commodity": "Ridgeguard(Tori)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9982662200927734,
+  "test_score": 0.986601710319519,
+  "mse": 26163.217741532717,
+  "mae": 55.93686294555664,
+  "n_samples": 128,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.857714"
+}

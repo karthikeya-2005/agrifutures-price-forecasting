@@ -1,0 +1,17 @@
+{
+  "commodity": "Ashgourd",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9985522627830505,
+  "test_score": 0.95925372838974,
+  "mse": 13594.065899682317,
+  "mae": 35.02210212476326,
+  "n_samples": 128,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.515904"
+}

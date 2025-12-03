@@ -1,0 +1,7726 @@
+{
+  "seasonal": [
+    {
+      "crop": "Amaranthus",
+      "month": 6,
+      "mean": 3014.9171270718234,
+      "std": 1042.245769045825,
+      "count": 181
+    },
+    {
+      "crop": "Amla(Nelli Kai)",
+      "month": 6,
+      "mean": 6637.662337662337,
+      "std": 1540.2527954714517,
+      "count": 77
+    },
+    {
+      "crop": "Amphophalus",
+      "month": 6,
+      "mean": 4709.090909090909,
+      "std": 1063.4420957010734,
+      "count": 11
+    },
+    {
+      "crop": "Amranthas Red",
+      "month": 6,
+      "mean": 54.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Apple",
+      "month": 6,
+      "mean": 10508.65671641791,
+      "std": 5784.974501796139,
+      "count": 67
+    },
+    {
+      "crop": "Arecanut(Betelnut/Supari)",
+      "month": 6,
+      "mean": 36500.0,
+      "std": 9205.976319760985,
+      "count": 5
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "month": 6,
+      "mean": 7002.0,
+      "std": 151.72343260024144,
+      "count": 5
+    },
+    {
+      "crop": "Arhar Dal(Tur Dal)",
+      "month": 6,
+      "mean": 11118.75,
+      "std": 1273.3445134762235,
+      "count": 4
+    },
+    {
+      "crop": "Ashgourd",
+      "month": 6,
+      "mean": 2667.080745341615,
+      "std": 655.913141878893,
+      "count": 161
+    },
+    {
+      "crop": "Bajra(Pearl Millet/Cumbu)",
+      "month": 6,
+      "mean": 2242.818181818182,
+      "std": 158.33055180969856,
+      "count": 11
+    },
+    {
+      "crop": "Banana",
+      "month": 6,
+      "mean": 3902.5,
+      "std": 1586.7870198478481,
+      "count": 152
+    },
+    {
+      "crop": "Banana - Green",
+      "month": 6,
+      "mean": 3140.9473684210525,
+      "std": 832.7948402172706,
+      "count": 190
+    },
+    {
+      "crop": "Beans",
+      "month": 6,
+      "mean": 8355.474452554745,
+      "std": 1713.8244001968746,
+      "count": 137
+    },
+    {
+      "crop": "Beetroot",
+      "month": 6,
+      "mean": 4931.290322580645,
+      "std": 1411.9865850864803,
+      "count": 155
+    },
+    {
+      "crop": "Bengal Gram(Gram)(Whole)",
+      "month": 6,
+      "mean": 7760.5,
+      "std": 1513.9156185203983,
+      "count": 2
+    },
+    {
+      "crop": "Betal Leaves",
+      "month": 6,
+      "mean": 13823.529411764706,
+      "std": 5711.668912385056,
+      "count": 17
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "month": 6,
+      "mean": 3994.1630901287554,
+      "std": 1162.0913479039277,
+      "count": 233
+    },
+    {
+      "crop": "Bitter gourd",
+      "month": 6,
+      "mean": 5407.054794520548,
+      "std": 1852.481343498859,
+      "count": 146
+    },
+    {
+      "crop": "Black Gram (Urd Beans)(Whole)",
+      "month": 6,
+      "mean": 5315.0,
+      "std": 1859.69083452062,
+      "count": 2
+    },
+    {
+      "crop": "Black pepper",
+      "month": 6,
+      "mean": 59000.0,
+      "std": 13133.925536563696,
+      "count": 6
+    },
+    {
+      "crop": "Bottle gourd",
+      "month": 6,
+      "mean": 2655.068181818182,
+      "std": 1001.7185551956013,
+      "count": 220
+    },
+    {
+      "crop": "Brinjal",
+      "month": 6,
+      "mean": 5230.846560846561,
+      "std": 2538.9378481057706,
+      "count": 189
+    },
+    {
+      "crop": "Cabbage",
+      "month": 6,
+      "mean": 3154.819587628866,
+      "std": 1028.0055610763857,
+      "count": 194
+    },
+    {
+      "crop": "Capsicum",
+      "month": 6,
+      "mean": 6971.428571428572,
+      "std": 1679.965986050228,
+      "count": 91
+    },
+    {
+      "crop": "Carrot",
+      "month": 6,
+      "mean": 6605.681818181818,
+      "std": 2026.8544498900167,
+      "count": 176
+    },
+    {
+      "crop": "Cashewnuts",
+      "month": 6,
+      "mean": 12100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Castor Seed",
+      "month": 6,
+      "mean": 5700.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Cauliflower",
+      "month": 6,
+      "mean": 4098.802395209581,
+      "std": 1824.1081505915347,
+      "count": 167
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "month": 6,
+      "mean": 4603.125,
+      "std": 964.0252891208384,
+      "count": 32
+    },
+    {
+      "crop": "Chili Red",
+      "month": 6,
+      "mean": 18333.333333333332,
+      "std": 2886.7513459481283,
+      "count": 3
+    },
+    {
+      "crop": "Chilly Capsicum",
+      "month": 6,
+      "mean": 3950.0,
+      "std": 331.66247903553995,
+      "count": 4
+    },
+    {
+      "crop": "Chow Chow",
+      "month": 6,
+      "mean": 2915.3225806451615,
+      "std": 609.5505947959123,
+      "count": 124
+    },
+    {
+      "crop": "Cluster beans",
+      "month": 6,
+      "mean": 4728.205128205128,
+      "std": 788.5302679399208,
+      "count": 156
+    },
+    {
+      "crop": "Coconut",
+      "month": 6,
+      "mean": 7076.023391812865,
+      "std": 1883.3819641748241,
+      "count": 171
+    },
+    {
+      "crop": "Coconut Oil",
+      "month": 6,
+      "mean": 39600.0,
+      "std": 3111.269837220809,
+      "count": 2
+    },
+    {
+      "crop": "Coconut Seed",
+      "month": 6,
+      "mean": 9014.285714285714,
+      "std": 4181.876999398146,
+      "count": 7
+    },
+    {
+      "crop": "Coffee",
+      "month": 6,
+      "mean": 23600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Colacasia",
+      "month": 6,
+      "mean": 4978.378378378378,
+      "std": 1419.870751427389,
+      "count": 74
+    },
+    {
+      "crop": "Copra",
+      "month": 6,
+      "mean": 19600.0,
+      "std": 707.1067811865476,
+      "count": 2
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "month": 6,
+      "mean": 6096.971264367816,
+      "std": 2014.82052852736,
+      "count": 174
+    },
+    {
+      "crop": "Cotton",
+      "month": 6,
+      "mean": 6851.863636363636,
+      "std": 537.1151597238668,
+      "count": 22
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "month": 6,
+      "mean": 4870.109756097561,
+      "std": 1499.5836459703305,
+      "count": 82
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "month": 6,
+      "mean": 3452.482269503546,
+      "std": 1574.6578567278716,
+      "count": 141
+    },
+    {
+      "crop": "Custard Apple (Sharifa)",
+      "month": 6,
+      "mean": 4560.606060606061,
+      "std": 1472.442569750047,
+      "count": 33
+    },
+    {
+      "crop": "Dhaincha",
+      "month": 6,
+      "mean": 8435.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Drumstick",
+      "month": 6,
+      "mean": 8112.8654970760235,
+      "std": 1607.1013290401274,
+      "count": 171
+    },
+    {
+      "crop": "Dry Chillies",
+      "month": 6,
+      "mean": 14650.0,
+      "std": 636.3961030678928,
+      "count": 2
+    },
+    {
+      "crop": "Duster Beans",
+      "month": 6,
+      "mean": 8000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "month": 6,
+      "mean": 5174.311926605505,
+      "std": 1146.201752466135,
+      "count": 109
+    },
+    {
+      "crop": "Field Pea",
+      "month": 6,
+      "mean": 5375.0,
+      "std": 530.3300858899106,
+      "count": 2
+    },
+    {
+      "crop": "Fig(Anjura/Anjeer)",
+      "month": 6,
+      "mean": 15000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Firewood",
+      "month": 6,
+      "mean": 320.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Fish",
+      "month": 6,
+      "mean": 16800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "month": 6,
+      "mean": 6630.0,
+      "std": 1905.7223768896083,
+      "count": 10
+    },
+    {
+      "crop": "Garlic",
+      "month": 6,
+      "mean": 11094.533333333333,
+      "std": 3965.3667201439544,
+      "count": 75
+    },
+    {
+      "crop": "Ginger(Dry)",
+      "month": 6,
+      "mean": 8466.666666666666,
+      "std": 6647.932009279276,
+      "count": 9
+    },
+    {
+      "crop": "Ginger(Green)",
+      "month": 6,
+      "mean": 8714.035087719298,
+      "std": 2405.369380695018,
+      "count": 171
+    },
+    {
+      "crop": "Gram Raw(Chholia)",
+      "month": 6,
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Grapes",
+      "month": 6,
+      "mean": 10384.615384615385,
+      "std": 2259.680031808452,
+      "count": 26
+    },
+    {
+      "crop": "Green Avare (W)",
+      "month": 6,
+      "mean": 10213.75,
+      "std": 2927.899136655903,
+      "count": 80
+    },
+    {
+      "crop": "Green Chilli",
+      "month": 6,
+      "mean": 4794.645833333333,
+      "std": 1748.6698410372605,
+      "count": 240
+    },
+    {
+      "crop": "Green Gram (Moong)(Whole)",
+      "month": 6,
+      "mean": 5487.5,
+      "std": 1396.5358928434314,
+      "count": 2
+    },
+    {
+      "crop": "Green Gram Dal (Moong Dal)",
+      "month": 6,
+      "mean": 10912.5,
+      "std": 1537.957249080741,
+      "count": 2
+    },
+    {
+      "crop": "Green Peas",
+      "month": 6,
+      "mean": 23240.0,
+      "std": 7943.083244469456,
+      "count": 15
+    },
+    {
+      "crop": "Ground Nut Seed",
+      "month": 6,
+      "mean": 9808.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Groundnut",
+      "month": 6,
+      "mean": 6187.755102040816,
+      "std": 982.2190338423386,
+      "count": 49
+    },
+    {
+      "crop": "Groundnut pods (raw)",
+      "month": 6,
+      "mean": 4500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Guar",
+      "month": 6,
+      "mean": 5705.0,
+      "std": 1993.6635735360278,
+      "count": 10
+    },
+    {
+      "crop": "Guava",
+      "month": 6,
+      "mean": 5628.070175438596,
+      "std": 1636.0030493042218,
+      "count": 114
+    },
+    {
+      "crop": "Gur(Jaggery)",
+      "month": 6,
+      "mean": 3883.6,
+      "std": 568.8513182038188,
+      "count": 10
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "month": 6,
+      "mean": 6980.952380952381,
+      "std": 1500.7702242414734,
+      "count": 42
+    },
+    {
+      "crop": "Jasmine",
+      "month": 6,
+      "mean": 59590.90909090909,
+      "std": 15555.305605083187,
+      "count": 22
+    },
+    {
+      "crop": "Jowar(Sorghum)",
+      "month": 6,
+      "mean": 2862.5,
+      "std": 863.4958019585272,
+      "count": 4
+    },
+    {
+      "crop": "Jute",
+      "month": 6,
+      "mean": 8550.0,
+      "std": 327.87192621510013,
+      "count": 7
+    },
+    {
+      "crop": "Kabuli Chana(Chickpeas-White)",
+      "month": 6,
+      "mean": 8005.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Kakada",
+      "month": 6,
+      "mean": 49444.444444444445,
+      "std": 10137.937550497032,
+      "count": 9
+    },
+    {
+      "crop": "Karbuja(Musk Melon)",
+      "month": 6,
+      "mean": 6500.0,
+      "std": 408.248290463863,
+      "count": 4
+    },
+    {
+      "crop": "Kinnow",
+      "month": 6,
+      "mean": 1875.0,
+      "std": 530.3300858899106,
+      "count": 2
+    },
+    {
+      "crop": "Knool Khol",
+      "month": 6,
+      "mean": 7055.0847457627115,
+      "std": 2537.489509325252,
+      "count": 59
+    },
+    {
+      "crop": "Kodo Millet(Varagu)",
+      "month": 6,
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Kulthi(Horse Gram)",
+      "month": 6,
+      "mean": 3200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "month": 6,
+      "mean": 2850.0,
+      "std": 2759.830912694955,
+      "count": 4
+    },
+    {
+      "crop": "Lemon",
+      "month": 6,
+      "mean": 7362.0809248554915,
+      "std": 2225.1729105364343,
+      "count": 173
+    },
+    {
+      "crop": "Lime",
+      "month": 6,
+      "mean": 7974.137931034483,
+      "std": 6333.856682296287,
+      "count": 58
+    },
+    {
+      "crop": "Little gourd (Kundru)",
+      "month": 6,
+      "mean": 5890.909090909091,
+      "std": 1771.696670118531,
+      "count": 11
+    },
+    {
+      "crop": "Long Melon(Kakri)",
+      "month": 6,
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mahua",
+      "month": 6,
+      "mean": 3100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Maize",
+      "month": 6,
+      "mean": 2232.5666666666666,
+      "std": 722.1075591394209,
+      "count": 90
+    },
+    {
+      "crop": "Mango",
+      "month": 6,
+      "mean": 7100.0,
+      "std": 3049.5901363953817,
+      "count": 5
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "month": 6,
+      "mean": 5263.675213675214,
+      "std": 952.6646823792494,
+      "count": 117
+    },
+    {
+      "crop": "Marigold(Calcutta)",
+      "month": 6,
+      "mean": 17291.666666666668,
+      "std": 7374.923237134282,
+      "count": 24
+    },
+    {
+      "crop": "Mashrooms",
+      "month": 6,
+      "mean": 14066.666666666666,
+      "std": 9231.521700554109,
+      "count": 48
+    },
+    {
+      "crop": "Masur Dal",
+      "month": 6,
+      "mean": 9500.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "month": 6,
+      "mean": 2033.111111111111,
+      "std": 1422.1399759204826,
+      "count": 9
+    },
+    {
+      "crop": "Mint(Pudina)",
+      "month": 6,
+      "mean": 4542.339743589743,
+      "std": 1207.1704345382052,
+      "count": 156
+    },
+    {
+      "crop": "Moath Dal",
+      "month": 6,
+      "mean": 3818.5,
+      "std": 214.2533546995239,
+      "count": 2
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "month": 6,
+      "mean": 4772.093023255814,
+      "std": 1693.0285038800043,
+      "count": 43
+    },
+    {
+      "crop": "Mustard",
+      "month": 6,
+      "mean": 6803.75,
+      "std": 444.29518823155655,
+      "count": 8
+    },
+    {
+      "crop": "Mustard Oil",
+      "month": 6,
+      "mean": 16225.0,
+      "std": 35.35533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Onion",
+      "month": 6,
+      "mean": 2685.740740740741,
+      "std": 986.6307088181944,
+      "count": 270
+    },
+    {
+      "crop": "Onion Green",
+      "month": 6,
+      "mean": 5566.426751592357,
+      "std": 1280.4964392056024,
+      "count": 157
+    },
+    {
+      "crop": "Orange",
+      "month": 6,
+      "mean": 8781.25,
+      "std": 4475.484295293567,
+      "count": 32
+    },
+    {
+      "crop": "Paddy(Dhan)(Basmati)",
+      "month": 6,
+      "mean": 3106.230769230769,
+      "std": 513.8041380795725,
+      "count": 13
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "month": 6,
+      "mean": 2322.6481481481483,
+      "std": 305.860996755272,
+      "count": 54
+    },
+    {
+      "crop": "Papaya",
+      "month": 6,
+      "mean": 3209.4827586206898,
+      "std": 693.0963447482957,
+      "count": 145
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "month": 6,
+      "mean": 1837.5,
+      "std": 682.367203197809,
+      "count": 4
+    },
+    {
+      "crop": "Pear(Marasebu)",
+      "month": 6,
+      "mean": 13000.0,
+      "std": 4242.640687119285,
+      "count": 2
+    },
+    {
+      "crop": "Peas Wet",
+      "month": 6,
+      "mean": 12119.23076923077,
+      "std": 4937.675670357564,
+      "count": 13
+    },
+    {
+      "crop": "Peas cod",
+      "month": 6,
+      "mean": 11500.0,
+      "std": 2380.4761428476168,
+      "count": 4
+    },
+    {
+      "crop": "Peas(Dry)",
+      "month": 6,
+      "mean": 5533.333333333333,
+      "std": 1210.7160415776002,
+      "count": 3
+    },
+    {
+      "crop": "Pegeon Pea (Arhar Fali)",
+      "month": 6,
+      "mean": 9250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pepper garbled",
+      "month": 6,
+      "mean": 67100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pepper ungarbled",
+      "month": 6,
+      "mean": 61000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Persimon(Japani Fal)",
+      "month": 6,
+      "mean": 8500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pineapple",
+      "month": 6,
+      "mean": 5264.5161290322585,
+      "std": 1563.0202359740952,
+      "count": 31
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "month": 6,
+      "mean": 3730.0,
+      "std": 1638.4138671288156,
+      "count": 11
+    },
+    {
+      "crop": "Pomegranate",
+      "month": 6,
+      "mean": 15701.530612244898,
+      "std": 5302.10357272643,
+      "count": 49
+    },
+    {
+      "crop": "Potato",
+      "month": 6,
+      "mean": 2741.6666666666665,
+      "std": 1552.1635552117757,
+      "count": 189
+    },
+    {
+      "crop": "Pumpkin",
+      "month": 6,
+      "mean": 2503.957219251337,
+      "std": 727.6361848580693,
+      "count": 187
+    },
+    {
+      "crop": "Raddish",
+      "month": 6,
+      "mean": 3811.728723404255,
+      "std": 1426.843892253246,
+      "count": 188
+    },
+    {
+      "crop": "Rat Tail Radish (Mogari)",
+      "month": 6,
+      "mean": 7750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Rice",
+      "month": 6,
+      "mean": 3743.5135135135133,
+      "std": 699.7438666962212,
+      "count": 37
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "month": 6,
+      "mean": 5166.875,
+      "std": 1134.6166545711328,
+      "count": 160
+    },
+    {
+      "crop": "Rose(Local)",
+      "month": 6,
+      "mean": 17416.666666666668,
+      "std": 5640.819140843832,
+      "count": 24
+    },
+    {
+      "crop": "Round gourd",
+      "month": 6,
+      "mean": 2783.3333333333335,
+      "std": 975.1068317540049,
+      "count": 3
+    },
+    {
+      "crop": "Rubber",
+      "month": 6,
+      "mean": 18400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Seemebadnekai",
+      "month": 6,
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Seetapal",
+      "month": 6,
+      "mean": 1250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sesamum(Sesame,Gingelly,Til)",
+      "month": 6,
+      "mean": 10305.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Snakeguard",
+      "month": 6,
+      "mean": 4661.714285714285,
+      "std": 1037.9397301459442,
+      "count": 175
+    },
+    {
+      "crop": "Soyabean",
+      "month": 6,
+      "mean": 4143.76,
+      "std": 320.3655828372745,
+      "count": 25
+    },
+    {
+      "crop": "Spinach",
+      "month": 6,
+      "mean": 1401.2777777777778,
+      "std": 955.1924847937906,
+      "count": 18
+    },
+    {
+      "crop": "Sponge gourd",
+      "month": 6,
+      "mean": 1962.5,
+      "std": 731.8640584152223,
+      "count": 4
+    },
+    {
+      "crop": "Squash(Chappal Kadoo)",
+      "month": 6,
+      "mean": 1700.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Surat Beans (Papadi)",
+      "month": 6,
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "month": 6,
+      "mean": 4396.710526315789,
+      "std": 1039.7543147723504,
+      "count": 76
+    },
+    {
+      "crop": "Sweet Pumpkin",
+      "month": 6,
+      "mean": 2138.8888888888887,
+      "std": 682.7233049421347,
+      "count": 9
+    },
+    {
+      "crop": "Tamarind Fruit",
+      "month": 6,
+      "mean": 15176.470588235294,
+      "std": 2674.7732174346825,
+      "count": 17
+    },
+    {
+      "crop": "Tapioca",
+      "month": 6,
+      "mean": 3147.4747474747473,
+      "std": 645.4461254716887,
+      "count": 99
+    },
+    {
+      "crop": "Tender Coconut",
+      "month": 6,
+      "mean": 3682.5396825396824,
+      "std": 2185.5492911497236,
+      "count": 63
+    },
+    {
+      "crop": "Thogrikai",
+      "month": 6,
+      "mean": 5200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Thondekai",
+      "month": 6,
+      "mean": 5391.764705882353,
+      "std": 1116.031635144926,
+      "count": 85
+    },
+    {
+      "crop": "Tinda",
+      "month": 6,
+      "mean": 3400.0,
+      "std": 2262.741699796952,
+      "count": 2
+    },
+    {
+      "crop": "Tomato",
+      "month": 6,
+      "mean": 2712.5095238095237,
+      "std": 846.3232511064602,
+      "count": 210
+    },
+    {
+      "crop": "Tube Flower",
+      "month": 6,
+      "mean": 100500.0,
+      "std": 66540.71435344429,
+      "count": 4
+    },
+    {
+      "crop": "Tube Rose(Loose)",
+      "month": 6,
+      "mean": 12833.333333333334,
+      "std": 4242.640687119285,
+      "count": 9
+    },
+    {
+      "crop": "Turmeric",
+      "month": 6,
+      "mean": 14600.0,
+      "std": 2969.8484809834995,
+      "count": 2
+    },
+    {
+      "crop": "Turmeric (raw)",
+      "month": 6,
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turnip",
+      "month": 6,
+      "mean": 4740.0,
+      "std": 2399.629601047258,
+      "count": 10
+    },
+    {
+      "crop": "Water Melon",
+      "month": 6,
+      "mean": 2190.4761904761904,
+      "std": 777.1130946681841,
+      "count": 21
+    },
+    {
+      "crop": "Wheat",
+      "month": 6,
+      "mean": 2534.418181818182,
+      "std": 190.2753064795646,
+      "count": 55
+    },
+    {
+      "crop": "Wood",
+      "month": 6,
+      "mean": 3175.0,
+      "std": 3712.3106012293747,
+      "count": 2
+    },
+    {
+      "crop": "Yam (Ratalu)",
+      "month": 6,
+      "mean": 6170.121951219512,
+      "std": 1566.112190218728,
+      "count": 82
+    }
+  ],
+  "yearly_trends": [
+    {
+      "crop": "Amaranthus",
+      "year": 2025,
+      "mean": 3014.9171270718234,
+      "std": 1042.245769045825
+    },
+    {
+      "crop": "Amla(Nelli Kai)",
+      "year": 2025,
+      "mean": 6637.662337662337,
+      "std": 1540.2527954714517
+    },
+    {
+      "crop": "Amphophalus",
+      "year": 2025,
+      "mean": 4709.090909090909,
+      "std": 1063.4420957010734
+    },
+    {
+      "crop": "Amranthas Red",
+      "year": 2025,
+      "mean": 54.0,
+      "std": NaN
+    },
+    {
+      "crop": "Apple",
+      "year": 2025,
+      "mean": 10508.65671641791,
+      "std": 5784.974501796139
+    },
+    {
+      "crop": "Arecanut(Betelnut/Supari)",
+      "year": 2025,
+      "mean": 36500.0,
+      "std": 9205.976319760985
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "year": 2025,
+      "mean": 7002.0,
+      "std": 151.72343260024144
+    },
+    {
+      "crop": "Arhar Dal(Tur Dal)",
+      "year": 2025,
+      "mean": 11118.75,
+      "std": 1273.3445134762235
+    },
+    {
+      "crop": "Ashgourd",
+      "year": 2025,
+      "mean": 2667.080745341615,
+      "std": 655.913141878893
+    },
+    {
+      "crop": "Bajra(Pearl Millet/Cumbu)",
+      "year": 2025,
+      "mean": 2242.818181818182,
+      "std": 158.33055180969856
+    },
+    {
+      "crop": "Banana",
+      "year": 2025,
+      "mean": 3902.5,
+      "std": 1586.7870198478481
+    },
+    {
+      "crop": "Banana - Green",
+      "year": 2025,
+      "mean": 3140.9473684210525,
+      "std": 832.7948402172706
+    },
+    {
+      "crop": "Beans",
+      "year": 2025,
+      "mean": 8355.474452554745,
+      "std": 1713.8244001968746
+    },
+    {
+      "crop": "Beetroot",
+      "year": 2025,
+      "mean": 4931.290322580645,
+      "std": 1411.9865850864803
+    },
+    {
+      "crop": "Bengal Gram(Gram)(Whole)",
+      "year": 2025,
+      "mean": 7760.5,
+      "std": 1513.9156185203983
+    },
+    {
+      "crop": "Betal Leaves",
+      "year": 2025,
+      "mean": 13823.529411764706,
+      "std": 5711.668912385056
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "year": 2025,
+      "mean": 3994.1630901287554,
+      "std": 1162.0913479039277
+    },
+    {
+      "crop": "Bitter gourd",
+      "year": 2025,
+      "mean": 5407.054794520548,
+      "std": 1852.481343498859
+    },
+    {
+      "crop": "Black Gram (Urd Beans)(Whole)",
+      "year": 2025,
+      "mean": 5315.0,
+      "std": 1859.69083452062
+    },
+    {
+      "crop": "Black pepper",
+      "year": 2025,
+      "mean": 59000.0,
+      "std": 13133.925536563696
+    },
+    {
+      "crop": "Bottle gourd",
+      "year": 2025,
+      "mean": 2655.068181818182,
+      "std": 1001.7185551956013
+    },
+    {
+      "crop": "Brinjal",
+      "year": 2025,
+      "mean": 5230.846560846561,
+      "std": 2538.9378481057706
+    },
+    {
+      "crop": "Cabbage",
+      "year": 2025,
+      "mean": 3154.819587628866,
+      "std": 1028.0055610763857
+    },
+    {
+      "crop": "Capsicum",
+      "year": 2025,
+      "mean": 6971.428571428572,
+      "std": 1679.965986050228
+    },
+    {
+      "crop": "Carrot",
+      "year": 2025,
+      "mean": 6605.681818181818,
+      "std": 2026.8544498900167
+    },
+    {
+      "crop": "Cashewnuts",
+      "year": 2025,
+      "mean": 12100.0,
+      "std": NaN
+    },
+    {
+      "crop": "Castor Seed",
+      "year": 2025,
+      "mean": 5700.0,
+      "std": 141.4213562373095
+    },
+    {
+      "crop": "Cauliflower",
+      "year": 2025,
+      "mean": 4098.802395209581,
+      "std": 1824.1081505915347
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "year": 2025,
+      "mean": 4603.125,
+      "std": 964.0252891208384
+    },
+    {
+      "crop": "Chili Red",
+      "year": 2025,
+      "mean": 18333.333333333332,
+      "std": 2886.7513459481283
+    },
+    {
+      "crop": "Chilly Capsicum",
+      "year": 2025,
+      "mean": 3950.0,
+      "std": 331.66247903553995
+    },
+    {
+      "crop": "Chow Chow",
+      "year": 2025,
+      "mean": 2915.3225806451615,
+      "std": 609.5505947959123
+    },
+    {
+      "crop": "Cluster beans",
+      "year": 2025,
+      "mean": 4728.205128205128,
+      "std": 788.5302679399208
+    },
+    {
+      "crop": "Coconut",
+      "year": 2025,
+      "mean": 7076.023391812865,
+      "std": 1883.3819641748241
+    },
+    {
+      "crop": "Coconut Oil",
+      "year": 2025,
+      "mean": 39600.0,
+      "std": 3111.269837220809
+    },
+    {
+      "crop": "Coconut Seed",
+      "year": 2025,
+      "mean": 9014.285714285714,
+      "std": 4181.876999398146
+    },
+    {
+      "crop": "Coffee",
+      "year": 2025,
+      "mean": 23600.0,
+      "std": NaN
+    },
+    {
+      "crop": "Colacasia",
+      "year": 2025,
+      "mean": 4978.378378378378,
+      "std": 1419.870751427389
+    },
+    {
+      "crop": "Copra",
+      "year": 2025,
+      "mean": 19600.0,
+      "std": 707.1067811865476
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "year": 2025,
+      "mean": 6096.971264367816,
+      "std": 2014.82052852736
+    },
+    {
+      "crop": "Cotton",
+      "year": 2025,
+      "mean": 6851.863636363636,
+      "std": 537.1151597238668
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "year": 2025,
+      "mean": 4870.109756097561,
+      "std": 1499.5836459703305
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "year": 2025,
+      "mean": 3452.482269503546,
+      "std": 1574.6578567278716
+    },
+    {
+      "crop": "Custard Apple (Sharifa)",
+      "year": 2025,
+      "mean": 4560.606060606061,
+      "std": 1472.442569750047
+    },
+    {
+      "crop": "Dhaincha",
+      "year": 2025,
+      "mean": 8435.0,
+      "std": NaN
+    },
+    {
+      "crop": "Drumstick",
+      "year": 2025,
+      "mean": 8112.8654970760235,
+      "std": 1607.1013290401274
+    },
+    {
+      "crop": "Dry Chillies",
+      "year": 2025,
+      "mean": 14650.0,
+      "std": 636.3961030678928
+    },
+    {
+      "crop": "Duster Beans",
+      "year": 2025,
+      "mean": 8000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "year": 2025,
+      "mean": 5174.311926605505,
+      "std": 1146.201752466135
+    },
+    {
+      "crop": "Field Pea",
+      "year": 2025,
+      "mean": 5375.0,
+      "std": 530.3300858899106
+    },
+    {
+      "crop": "Fig(Anjura/Anjeer)",
+      "year": 2025,
+      "mean": 15000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Firewood",
+      "year": 2025,
+      "mean": 320.0,
+      "std": NaN
+    },
+    {
+      "crop": "Fish",
+      "year": 2025,
+      "mean": 16800.0,
+      "std": NaN
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "year": 2025,
+      "mean": 6630.0,
+      "std": 1905.7223768896083
+    },
+    {
+      "crop": "Garlic",
+      "year": 2025,
+      "mean": 11094.533333333333,
+      "std": 3965.3667201439544
+    },
+    {
+      "crop": "Ginger(Dry)",
+      "year": 2025,
+      "mean": 8466.666666666666,
+      "std": 6647.932009279276
+    },
+    {
+      "crop": "Ginger(Green)",
+      "year": 2025,
+      "mean": 8714.035087719298,
+      "std": 2405.369380695018
+    },
+    {
+      "crop": "Gram Raw(Chholia)",
+      "year": 2025,
+      "mean": 4000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Grapes",
+      "year": 2025,
+      "mean": 10384.615384615385,
+      "std": 2259.680031808452
+    },
+    {
+      "crop": "Green Avare (W)",
+      "year": 2025,
+      "mean": 10213.75,
+      "std": 2927.899136655903
+    },
+    {
+      "crop": "Green Chilli",
+      "year": 2025,
+      "mean": 4794.645833333333,
+      "std": 1748.6698410372605
+    },
+    {
+      "crop": "Green Gram (Moong)(Whole)",
+      "year": 2025,
+      "mean": 5487.5,
+      "std": 1396.5358928434314
+    },
+    {
+      "crop": "Green Gram Dal (Moong Dal)",
+      "year": 2025,
+      "mean": 10912.5,
+      "std": 1537.957249080741
+    },
+    {
+      "crop": "Green Peas",
+      "year": 2025,
+      "mean": 23240.0,
+      "std": 7943.083244469456
+    },
+    {
+      "crop": "Ground Nut Seed",
+      "year": 2025,
+      "mean": 9808.0,
+      "std": NaN
+    },
+    {
+      "crop": "Groundnut",
+      "year": 2025,
+      "mean": 6187.755102040816,
+      "std": 982.2190338423386
+    },
+    {
+      "crop": "Groundnut pods (raw)",
+      "year": 2025,
+      "mean": 4500.0,
+      "std": NaN
+    },
+    {
+      "crop": "Guar",
+      "year": 2025,
+      "mean": 5705.0,
+      "std": 1993.6635735360278
+    },
+    {
+      "crop": "Guava",
+      "year": 2025,
+      "mean": 5628.070175438596,
+      "std": 1636.0030493042218
+    },
+    {
+      "crop": "Gur(Jaggery)",
+      "year": 2025,
+      "mean": 3883.6,
+      "std": 568.8513182038188
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "year": 2025,
+      "mean": 6980.952380952381,
+      "std": 1500.7702242414734
+    },
+    {
+      "crop": "Jasmine",
+      "year": 2025,
+      "mean": 59590.90909090909,
+      "std": 15555.305605083187
+    },
+    {
+      "crop": "Jowar(Sorghum)",
+      "year": 2025,
+      "mean": 2862.5,
+      "std": 863.4958019585272
+    },
+    {
+      "crop": "Jute",
+      "year": 2025,
+      "mean": 8550.0,
+      "std": 327.87192621510013
+    },
+    {
+      "crop": "Kabuli Chana(Chickpeas-White)",
+      "year": 2025,
+      "mean": 8005.0,
+      "std": NaN
+    },
+    {
+      "crop": "Kakada",
+      "year": 2025,
+      "mean": 49444.444444444445,
+      "std": 10137.937550497032
+    },
+    {
+      "crop": "Karbuja(Musk Melon)",
+      "year": 2025,
+      "mean": 6500.0,
+      "std": 408.248290463863
+    },
+    {
+      "crop": "Kinnow",
+      "year": 2025,
+      "mean": 1875.0,
+      "std": 530.3300858899106
+    },
+    {
+      "crop": "Knool Khol",
+      "year": 2025,
+      "mean": 7055.0847457627115,
+      "std": 2537.489509325252
+    },
+    {
+      "crop": "Kodo Millet(Varagu)",
+      "year": 2025,
+      "mean": 2000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Kulthi(Horse Gram)",
+      "year": 2025,
+      "mean": 3200.0,
+      "std": NaN
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "year": 2025,
+      "mean": 2850.0,
+      "std": 2759.830912694955
+    },
+    {
+      "crop": "Lemon",
+      "year": 2025,
+      "mean": 7362.0809248554915,
+      "std": 2225.1729105364343
+    },
+    {
+      "crop": "Lime",
+      "year": 2025,
+      "mean": 7974.137931034483,
+      "std": 6333.856682296287
+    },
+    {
+      "crop": "Little gourd (Kundru)",
+      "year": 2025,
+      "mean": 5890.909090909091,
+      "std": 1771.696670118531
+    },
+    {
+      "crop": "Long Melon(Kakri)",
+      "year": 2025,
+      "mean": 3000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Mahua",
+      "year": 2025,
+      "mean": 3100.0,
+      "std": NaN
+    },
+    {
+      "crop": "Maize",
+      "year": 2025,
+      "mean": 2232.5666666666666,
+      "std": 722.1075591394209
+    },
+    {
+      "crop": "Mango",
+      "year": 2025,
+      "mean": 7100.0,
+      "std": 3049.5901363953817
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "year": 2025,
+      "mean": 5263.675213675214,
+      "std": 952.6646823792494
+    },
+    {
+      "crop": "Marigold(Calcutta)",
+      "year": 2025,
+      "mean": 17291.666666666668,
+      "std": 7374.923237134282
+    },
+    {
+      "crop": "Mashrooms",
+      "year": 2025,
+      "mean": 14066.666666666666,
+      "std": 9231.521700554109
+    },
+    {
+      "crop": "Masur Dal",
+      "year": 2025,
+      "mean": 9500.0,
+      "std": 0.0
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "year": 2025,
+      "mean": 2033.111111111111,
+      "std": 1422.1399759204826
+    },
+    {
+      "crop": "Mint(Pudina)",
+      "year": 2025,
+      "mean": 4542.339743589743,
+      "std": 1207.1704345382052
+    },
+    {
+      "crop": "Moath Dal",
+      "year": 2025,
+      "mean": 3818.5,
+      "std": 214.2533546995239
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "year": 2025,
+      "mean": 4772.093023255814,
+      "std": 1693.0285038800043
+    },
+    {
+      "crop": "Mustard",
+      "year": 2025,
+      "mean": 6803.75,
+      "std": 444.29518823155655
+    },
+    {
+      "crop": "Mustard Oil",
+      "year": 2025,
+      "mean": 16225.0,
+      "std": 35.35533905932738
+    },
+    {
+      "crop": "Onion",
+      "year": 2025,
+      "mean": 2685.740740740741,
+      "std": 986.6307088181944
+    },
+    {
+      "crop": "Onion Green",
+      "year": 2025,
+      "mean": 5566.426751592357,
+      "std": 1280.4964392056024
+    },
+    {
+      "crop": "Orange",
+      "year": 2025,
+      "mean": 8781.25,
+      "std": 4475.484295293567
+    },
+    {
+      "crop": "Paddy(Dhan)(Basmati)",
+      "year": 2025,
+      "mean": 3106.230769230769,
+      "std": 513.8041380795725
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "year": 2025,
+      "mean": 2322.6481481481483,
+      "std": 305.860996755272
+    },
+    {
+      "crop": "Papaya",
+      "year": 2025,
+      "mean": 3209.4827586206898,
+      "std": 693.0963447482957
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "year": 2025,
+      "mean": 1837.5,
+      "std": 682.367203197809
+    },
+    {
+      "crop": "Pear(Marasebu)",
+      "year": 2025,
+      "mean": 13000.0,
+      "std": 4242.640687119285
+    },
+    {
+      "crop": "Peas Wet",
+      "year": 2025,
+      "mean": 12119.23076923077,
+      "std": 4937.675670357564
+    },
+    {
+      "crop": "Peas cod",
+      "year": 2025,
+      "mean": 11500.0,
+      "std": 2380.4761428476168
+    },
+    {
+      "crop": "Peas(Dry)",
+      "year": 2025,
+      "mean": 5533.333333333333,
+      "std": 1210.7160415776002
+    },
+    {
+      "crop": "Pegeon Pea (Arhar Fali)",
+      "year": 2025,
+      "mean": 9250.0,
+      "std": NaN
+    },
+    {
+      "crop": "Pepper garbled",
+      "year": 2025,
+      "mean": 67100.0,
+      "std": NaN
+    },
+    {
+      "crop": "Pepper ungarbled",
+      "year": 2025,
+      "mean": 61000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Persimon(Japani Fal)",
+      "year": 2025,
+      "mean": 8500.0,
+      "std": NaN
+    },
+    {
+      "crop": "Pineapple",
+      "year": 2025,
+      "mean": 5264.5161290322585,
+      "std": 1563.0202359740952
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "year": 2025,
+      "mean": 3730.0,
+      "std": 1638.4138671288156
+    },
+    {
+      "crop": "Pomegranate",
+      "year": 2025,
+      "mean": 15701.530612244898,
+      "std": 5302.10357272643
+    },
+    {
+      "crop": "Potato",
+      "year": 2025,
+      "mean": 2741.6666666666665,
+      "std": 1552.1635552117757
+    },
+    {
+      "crop": "Pumpkin",
+      "year": 2025,
+      "mean": 2503.957219251337,
+      "std": 727.6361848580693
+    },
+    {
+      "crop": "Raddish",
+      "year": 2025,
+      "mean": 3811.728723404255,
+      "std": 1426.843892253246
+    },
+    {
+      "crop": "Rat Tail Radish (Mogari)",
+      "year": 2025,
+      "mean": 7750.0,
+      "std": NaN
+    },
+    {
+      "crop": "Rice",
+      "year": 2025,
+      "mean": 3743.5135135135133,
+      "std": 699.7438666962212
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "year": 2025,
+      "mean": 5166.875,
+      "std": 1134.6166545711328
+    },
+    {
+      "crop": "Rose(Local)",
+      "year": 2025,
+      "mean": 17416.666666666668,
+      "std": 5640.819140843832
+    },
+    {
+      "crop": "Round gourd",
+      "year": 2025,
+      "mean": 2783.3333333333335,
+      "std": 975.1068317540049
+    },
+    {
+      "crop": "Rubber",
+      "year": 2025,
+      "mean": 18400.0,
+      "std": NaN
+    },
+    {
+      "crop": "Seemebadnekai",
+      "year": 2025,
+      "mean": 2000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Seetapal",
+      "year": 2025,
+      "mean": 1250.0,
+      "std": NaN
+    },
+    {
+      "crop": "Sesamum(Sesame,Gingelly,Til)",
+      "year": 2025,
+      "mean": 10305.0,
+      "std": NaN
+    },
+    {
+      "crop": "Snakeguard",
+      "year": 2025,
+      "mean": 4661.714285714285,
+      "std": 1037.9397301459442
+    },
+    {
+      "crop": "Soyabean",
+      "year": 2025,
+      "mean": 4143.76,
+      "std": 320.3655828372745
+    },
+    {
+      "crop": "Spinach",
+      "year": 2025,
+      "mean": 1401.2777777777778,
+      "std": 955.1924847937906
+    },
+    {
+      "crop": "Sponge gourd",
+      "year": 2025,
+      "mean": 1962.5,
+      "std": 731.8640584152223
+    },
+    {
+      "crop": "Squash(Chappal Kadoo)",
+      "year": 2025,
+      "mean": 1700.0,
+      "std": 141.4213562373095
+    },
+    {
+      "crop": "Surat Beans (Papadi)",
+      "year": 2025,
+      "mean": 10000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Sweet Potato",
+      "year": 2025,
+      "mean": 4396.710526315789,
+      "std": 1039.7543147723504
+    },
+    {
+      "crop": "Sweet Pumpkin",
+      "year": 2025,
+      "mean": 2138.8888888888887,
+      "std": 682.7233049421347
+    },
+    {
+      "crop": "Tamarind Fruit",
+      "year": 2025,
+      "mean": 15176.470588235294,
+      "std": 2674.7732174346825
+    },
+    {
+      "crop": "Tapioca",
+      "year": 2025,
+      "mean": 3147.4747474747473,
+      "std": 645.4461254716887
+    },
+    {
+      "crop": "Tender Coconut",
+      "year": 2025,
+      "mean": 3682.5396825396824,
+      "std": 2185.5492911497236
+    },
+    {
+      "crop": "Thogrikai",
+      "year": 2025,
+      "mean": 5200.0,
+      "std": NaN
+    },
+    {
+      "crop": "Thondekai",
+      "year": 2025,
+      "mean": 5391.764705882353,
+      "std": 1116.031635144926
+    },
+    {
+      "crop": "Tinda",
+      "year": 2025,
+      "mean": 3400.0,
+      "std": 2262.741699796952
+    },
+    {
+      "crop": "Tomato",
+      "year": 2025,
+      "mean": 2712.5095238095237,
+      "std": 846.3232511064602
+    },
+    {
+      "crop": "Tube Flower",
+      "year": 2025,
+      "mean": 100500.0,
+      "std": 66540.71435344429
+    },
+    {
+      "crop": "Tube Rose(Loose)",
+      "year": 2025,
+      "mean": 12833.333333333334,
+      "std": 4242.640687119285
+    },
+    {
+      "crop": "Turmeric",
+      "year": 2025,
+      "mean": 14600.0,
+      "std": 2969.8484809834995
+    },
+    {
+      "crop": "Turmeric (raw)",
+      "year": 2025,
+      "mean": 5000.0,
+      "std": NaN
+    },
+    {
+      "crop": "Turnip",
+      "year": 2025,
+      "mean": 4740.0,
+      "std": 2399.629601047258
+    },
+    {
+      "crop": "Water Melon",
+      "year": 2025,
+      "mean": 2190.4761904761904,
+      "std": 777.1130946681841
+    },
+    {
+      "crop": "Wheat",
+      "year": 2025,
+      "mean": 2534.418181818182,
+      "std": 190.2753064795646
+    },
+    {
+      "crop": "Wood",
+      "year": 2025,
+      "mean": 3175.0,
+      "std": 3712.3106012293747
+    },
+    {
+      "crop": "Yam (Ratalu)",
+      "year": 2025,
+      "mean": 6170.121951219512,
+      "std": 1566.112190218728
+    }
+  ],
+  "location": [
+    {
+      "crop": "Amaranthus",
+      "state": "Kerala",
+      "mean": 3547.6190476190477,
+      "std": 1024.9970963954227,
+      "count": 21
+    },
+    {
+      "crop": "Amaranthus",
+      "state": "Tamil Nadu",
+      "mean": 2945.0,
+      "std": 1027.2268340310525,
+      "count": 160
+    },
+    {
+      "crop": "Amla(Nelli Kai)",
+      "state": "Maharashtra",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Amla(Nelli Kai)",
+      "state": "Tamil Nadu",
+      "mean": 6659.210526315789,
+      "std": 1538.759468453204,
+      "count": 76
+    },
+    {
+      "crop": "Amphophalus",
+      "state": "Kerala",
+      "mean": 4709.090909090909,
+      "std": 1063.4420957010734,
+      "count": 11
+    },
+    {
+      "crop": "Amranthas Red",
+      "state": "Kerala",
+      "mean": 54.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Apple",
+      "state": "Haryana",
+      "mean": 5071.428571428572,
+      "std": 1170.0630833624396,
+      "count": 7
+    },
+    {
+      "crop": "Apple",
+      "state": "Himachal Pradesh",
+      "mean": 6312.5,
+      "std": 1951.228245661349,
+      "count": 4
+    },
+    {
+      "crop": "Apple",
+      "state": "Jammu and Kashmir",
+      "mean": 5066.666666666667,
+      "std": 1616.580753730952,
+      "count": 3
+    },
+    {
+      "crop": "Apple",
+      "state": "Kerala",
+      "mean": 13500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Apple",
+      "state": "Maharashtra",
+      "mean": 9000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Apple",
+      "state": "Punjab",
+      "mean": 5516.666666666667,
+      "std": 2333.595223398151,
+      "count": 6
+    },
+    {
+      "crop": "Apple",
+      "state": "Rajasthan",
+      "mean": 4900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Apple",
+      "state": "Tamil Nadu",
+      "mean": 16750.0,
+      "std": 2221.527669236911,
+      "count": 28
+    },
+    {
+      "crop": "Apple",
+      "state": "Uttar Pradesh",
+      "mean": 6702.307692307692,
+      "std": 1991.0598260145853,
+      "count": 13
+    },
+    {
+      "crop": "Apple",
+      "state": "Uttrakhand",
+      "mean": 3833.3333333333335,
+      "std": 1527.5252316519468,
+      "count": 3
+    },
+    {
+      "crop": "Arecanut(Betelnut/Supari)",
+      "state": "Karnataka",
+      "mean": 27500.0,
+      "std": 2121.3203435596424,
+      "count": 2
+    },
+    {
+      "crop": "Arecanut(Betelnut/Supari)",
+      "state": "Kerala",
+      "mean": 42500.0,
+      "std": 5678.908345800273,
+      "count": 3
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "state": "Gujarat",
+      "mean": 6950.0,
+      "std": 70.71067811865476,
+      "count": 2
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "state": "Karnataka",
+      "mean": 7250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "state": "Madhya Pradesh",
+      "mean": 6860.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "state": "Tamil Nadu",
+      "mean": 7000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Arhar Dal(Tur Dal)",
+      "state": "Uttar Pradesh",
+      "mean": 10858.333333333334,
+      "std": 1423.0981460648923,
+      "count": 3
+    },
+    {
+      "crop": "Arhar Dal(Tur Dal)",
+      "state": "West Bengal",
+      "mean": 11900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ashgourd",
+      "state": "Karnataka",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ashgourd",
+      "state": "Kerala",
+      "mean": 3088.8888888888887,
+      "std": 745.8819405784307,
+      "count": 18
+    },
+    {
+      "crop": "Ashgourd",
+      "state": "Punjab",
+      "mean": 1600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ashgourd",
+      "state": "Tamil Nadu",
+      "mean": 2625.531914893617,
+      "std": 623.057467576415,
+      "count": 141
+    },
+    {
+      "crop": "Bajra(Pearl Millet/Cumbu)",
+      "state": "Gujarat",
+      "mean": 2400.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Bajra(Pearl Millet/Cumbu)",
+      "state": "Rajasthan",
+      "mean": 2148.2,
+      "std": 139.22715252421128,
+      "count": 5
+    },
+    {
+      "crop": "Bajra(Pearl Millet/Cumbu)",
+      "state": "Uttar Pradesh",
+      "mean": 2282.5,
+      "std": 155.6438241627338,
+      "count": 4
+    },
+    {
+      "crop": "Banana",
+      "state": "Andhra Pradesh",
+      "mean": 8500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Banana",
+      "state": "Haryana",
+      "mean": 2400.0,
+      "std": 850.8818954473059,
+      "count": 6
+    },
+    {
+      "crop": "Banana",
+      "state": "Himachal Pradesh",
+      "mean": 3400.0,
+      "std": 796.8688725254614,
+      "count": 5
+    },
+    {
+      "crop": "Banana",
+      "state": "Jammu and Kashmir",
+      "mean": 4116.666666666667,
+      "std": 765.397500213669,
+      "count": 3
+    },
+    {
+      "crop": "Banana",
+      "state": "Kerala",
+      "mean": 3530.144927536232,
+      "std": 1373.5971375677025,
+      "count": 69
+    },
+    {
+      "crop": "Banana",
+      "state": "Maharashtra",
+      "mean": 4250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Banana",
+      "state": "Odisha",
+      "mean": 1900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Banana",
+      "state": "Punjab",
+      "mean": 2262.5,
+      "std": 449.7684589504545,
+      "count": 4
+    },
+    {
+      "crop": "Banana",
+      "state": "Rajasthan",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Banana",
+      "state": "Tamil Nadu",
+      "mean": 4932.727272727273,
+      "std": 1240.9755041982905,
+      "count": 55
+    },
+    {
+      "crop": "Banana",
+      "state": "Uttar Pradesh",
+      "mean": 1470.0,
+      "std": 691.3392799487094,
+      "count": 5
+    },
+    {
+      "crop": "Banana",
+      "state": "Uttrakhand",
+      "mean": 1000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Banana - Green",
+      "state": "Gujarat",
+      "mean": 800.0,
+      "std": 424.26406871192853,
+      "count": 2
+    },
+    {
+      "crop": "Banana - Green",
+      "state": "Haryana",
+      "mean": 2200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Banana - Green",
+      "state": "Kerala",
+      "mean": 3412.5,
+      "std": 771.9024117939607,
+      "count": 16
+    },
+    {
+      "crop": "Banana - Green",
+      "state": "Odisha",
+      "mean": 3500.0,
+      "std": 707.1067811865476,
+      "count": 2
+    },
+    {
+      "crop": "Banana - Green",
+      "state": "Tamil Nadu",
+      "mean": 3206.134969325153,
+      "std": 745.8273433679385,
+      "count": 163
+    },
+    {
+      "crop": "Banana - Green",
+      "state": "Uttar Pradesh",
+      "mean": 1463.3333333333333,
+      "std": 312.06836857757094,
+      "count": 6
+    },
+    {
+      "crop": "Beans",
+      "state": "Karnataka",
+      "mean": 5400.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Beans",
+      "state": "Maharashtra",
+      "mean": 4350.0,
+      "std": 212.13203435596427,
+      "count": 2
+    },
+    {
+      "crop": "Beans",
+      "state": "Nagaland",
+      "mean": 10550.0,
+      "std": 6434.671708797582,
+      "count": 2
+    },
+    {
+      "crop": "Beans",
+      "state": "Tamil Nadu",
+      "mean": 8428.24427480916,
+      "std": 1514.3048574871832,
+      "count": 131
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Gujarat",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Karnataka",
+      "mean": 2850.0,
+      "std": 2192.0310216782973,
+      "count": 2
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Kerala",
+      "mean": 4700.0,
+      "std": 1210.2129501105928,
+      "count": 14
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Maharashtra",
+      "mean": 3100.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Odisha",
+      "mean": 8500.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Punjab",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Tamil Nadu",
+      "mean": 4999.242424242424,
+      "std": 1329.667134614324,
+      "count": 132
+    },
+    {
+      "crop": "Beetroot",
+      "state": "Telangana",
+      "mean": 3750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bengal Gram(Gram)(Whole)",
+      "state": "Karnataka",
+      "mean": 8831.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bengal Gram(Gram)(Whole)",
+      "state": "Uttar Pradesh",
+      "mean": 6690.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Betal Leaves",
+      "state": "Tamil Nadu",
+      "mean": 13823.529411764706,
+      "std": 5711.668912385056,
+      "count": 17
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Gujarat",
+      "mean": 2987.5,
+      "std": 1251.9151994710612,
+      "count": 4
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Haryana",
+      "mean": 2733.3333333333335,
+      "std": 680.6859285554046,
+      "count": 3
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Himachal Pradesh",
+      "mean": 3270.0,
+      "std": 576.1944116355173,
+      "count": 5
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Jammu and Kashmir",
+      "mean": 3233.3333333333335,
+      "std": 525.1983752196243,
+      "count": 3
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Karnataka",
+      "mean": 5200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Kerala",
+      "mean": 4870.0,
+      "std": 1149.8741349886036,
+      "count": 20
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Madhya Pradesh",
+      "mean": 1300.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Maharashtra",
+      "mean": 3460.0,
+      "std": 1154.5850625513335,
+      "count": 4
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Nagaland",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Odisha",
+      "mean": 4350.0,
+      "std": 1601.0413278030437,
+      "count": 4
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Punjab",
+      "mean": 2912.5,
+      "std": 1227.5847366737196,
+      "count": 8
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Rajasthan",
+      "mean": 2950.0,
+      "std": 212.13203435596427,
+      "count": 2
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Tamil Nadu",
+      "mean": 4110.843373493976,
+      "std": 1040.8052882488312,
+      "count": 166
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Telangana",
+      "mean": 4750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Uttar Pradesh",
+      "mean": 2290.0,
+      "std": 984.2763839491427,
+      "count": 5
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "Uttrakhand",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "state": "West Bengal",
+      "mean": 3750.0,
+      "std": 420.31734043061647,
+      "count": 4
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Gujarat",
+      "mean": 3250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Haryana",
+      "mean": 2500.0,
+      "std": 707.1067811865476,
+      "count": 2
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Himachal Pradesh",
+      "mean": 5525.0,
+      "std": 2131.3141485947117,
+      "count": 4
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Jammu and Kashmir",
+      "mean": 4500.0,
+      "std": 1767.7669529663688,
+      "count": 2
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Karnataka",
+      "mean": 3600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Kerala",
+      "mean": 5400.0,
+      "std": 1288.0013076162045,
+      "count": 20
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Madhya Pradesh",
+      "mean": 1100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Maharashtra",
+      "mean": 2750.0,
+      "std": 250.0,
+      "count": 3
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Odisha",
+      "mean": 3950.0,
+      "std": 427.20018726587654,
+      "count": 3
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Punjab",
+      "mean": 3366.6666666666665,
+      "std": 1350.3086067019397,
+      "count": 3
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Rajasthan",
+      "mean": 3200.0,
+      "std": 1414.213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Tamil Nadu",
+      "mean": 6085.714285714285,
+      "std": 1598.4417014754945,
+      "count": 91
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Telangana",
+      "mean": 3750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Tripura",
+      "mean": 6975.0,
+      "std": 1378.8582233137677,
+      "count": 2
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "Uttar Pradesh",
+      "mean": 1940.0,
+      "std": 1187.9393923933999,
+      "count": 2
+    },
+    {
+      "crop": "Bitter gourd",
+      "state": "West Bengal",
+      "mean": 3175.0,
+      "std": 395.5105199973466,
+      "count": 8
+    },
+    {
+      "crop": "Black Gram (Urd Beans)(Whole)",
+      "state": "Gujarat",
+      "mean": 6630.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Black Gram (Urd Beans)(Whole)",
+      "state": "Rajasthan",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Black pepper",
+      "state": "Karnataka",
+      "mean": 44000.0,
+      "std": 12727.922061357855,
+      "count": 2
+    },
+    {
+      "crop": "Black pepper",
+      "state": "Kerala",
+      "mean": 66500.0,
+      "std": 2915.4759474226503,
+      "count": 4
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Chandigarh",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Gujarat",
+      "mean": 3125.0,
+      "std": 2298.0970388562796,
+      "count": 2
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Haryana",
+      "mean": 2012.5,
+      "std": 710.0050301632679,
+      "count": 8
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Himachal Pradesh",
+      "mean": 3530.0,
+      "std": 854.107721543366,
+      "count": 5
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Jammu and Kashmir",
+      "mean": 1750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Karnataka",
+      "mean": 2300.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Kerala",
+      "mean": 2837.5,
+      "std": 972.8823155962904,
+      "count": 16
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Madhya Pradesh",
+      "mean": 1000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Maharashtra",
+      "mean": 2237.5,
+      "std": 354.43617196894564,
+      "count": 4
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Nagaland",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Punjab",
+      "mean": 2750.0,
+      "std": 1705.872210923198,
+      "count": 4
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Rajasthan",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Tamil Nadu",
+      "mean": 2746.6257668711655,
+      "std": 959.1844663913913,
+      "count": 163
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Uttar Pradesh",
+      "mean": 1619.5454545454545,
+      "std": 734.5966735068114,
+      "count": 11
+    },
+    {
+      "crop": "Bottle gourd",
+      "state": "Uttrakhand",
+      "mean": 1100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Gujarat",
+      "mean": 5100.0,
+      "std": 2343.608329051593,
+      "count": 3
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Haryana",
+      "mean": 1756.25,
+      "std": 667.317390751957,
+      "count": 8
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Himachal Pradesh",
+      "mean": 2408.3333333333335,
+      "std": 725.5457715862361,
+      "count": 6
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Jammu and Kashmir",
+      "mean": 2383.3333333333335,
+      "std": 332.9164059239697,
+      "count": 3
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Karnataka",
+      "mean": 5033.333333333333,
+      "std": 1530.7950004273378,
+      "count": 3
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Kerala",
+      "mean": 5445.0,
+      "std": 1237.7717670751829,
+      "count": 20
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Madhya Pradesh",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Maharashtra",
+      "mean": 2755.0,
+      "std": 751.0659092250161,
+      "count": 4
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Nagaland",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Odisha",
+      "mean": 3863.3333333333335,
+      "std": 1518.9689485524932,
+      "count": 6
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Punjab",
+      "mean": 1981.25,
+      "std": 853.5378056737063,
+      "count": 8
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Rajasthan",
+      "mean": 1950.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Tamil Nadu",
+      "mean": 7212.087912087912,
+      "std": 1502.6521120882803,
+      "count": 91
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Telangana",
+      "mean": 4750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Tripura",
+      "mean": 4683.333333333333,
+      "std": 1142.7306477614634,
+      "count": 3
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Uttar Pradesh",
+      "mean": 1502.142857142857,
+      "std": 659.1127902944005,
+      "count": 14
+    },
+    {
+      "crop": "Brinjal",
+      "state": "Uttrakhand",
+      "mean": 1000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Brinjal",
+      "state": "West Bengal",
+      "mean": 4171.428571428572,
+      "std": 949.8409352085233,
+      "count": 14
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Gujarat",
+      "mean": 1250.0,
+      "std": 404.1451884327381,
+      "count": 4
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Haryana",
+      "mean": 1600.0,
+      "std": 141.4213562373095,
+      "count": 4
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Himachal Pradesh",
+      "mean": 2983.3333333333335,
+      "std": 398.32984656772413,
+      "count": 6
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Jammu and Kashmir",
+      "mean": 2300.0,
+      "std": 229.128784747792,
+      "count": 3
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Karnataka",
+      "mean": 1550.0,
+      "std": 353.5533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Kerala",
+      "mean": 3511.764705882353,
+      "std": 1043.9602201120838,
+      "count": 17
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Madhya Pradesh",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Maharashtra",
+      "mean": 1332.0,
+      "std": 432.862564793954,
+      "count": 5
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Nagaland",
+      "mean": 5100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Odisha",
+      "mean": 5366.666666666667,
+      "std": 1517.673658377628,
+      "count": 3
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Punjab",
+      "mean": 1850.0,
+      "std": 850.0,
+      "count": 3
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Rajasthan",
+      "mean": 1733.3333333333333,
+      "std": 461.8802153517006,
+      "count": 3
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Tamil Nadu",
+      "mean": 3409.0225563909776,
+      "std": 753.4223579688585,
+      "count": 133
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Telangana",
+      "mean": 2250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cabbage",
+      "state": "Uttar Pradesh",
+      "mean": 1955.0,
+      "std": 369.39139134527755,
+      "count": 5
+    },
+    {
+      "crop": "Cabbage",
+      "state": "West Bengal",
+      "mean": 2600.0,
+      "std": 624.4997998398399,
+      "count": 3
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Gujarat",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Haryana",
+      "mean": 4333.333333333333,
+      "std": 2020.7259421636902,
+      "count": 3
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Himachal Pradesh",
+      "mean": 4830.0,
+      "std": 563.02753041037,
+      "count": 5
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Jammu and Kashmir",
+      "mean": 4675.0,
+      "std": 1520.2795795510772,
+      "count": 2
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Karnataka",
+      "mean": 7200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Kerala",
+      "mean": 7833.333333333333,
+      "std": 1150.0724614852174,
+      "count": 6
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Punjab",
+      "mean": 3866.6666666666665,
+      "std": 1266.2279942148386,
+      "count": 3
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Rajasthan",
+      "mean": 4150.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Tamil Nadu",
+      "mean": 7557.575757575758,
+      "std": 1181.7927198261261,
+      "count": 66
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Telangana",
+      "mean": 5750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Capsicum",
+      "state": "Uttar Pradesh",
+      "mean": 5750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Carrot",
+      "state": "Gujarat",
+      "mean": 3250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Carrot",
+      "state": "Haryana",
+      "mean": 1900.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Carrot",
+      "state": "Himachal Pradesh",
+      "mean": 4316.666666666667,
+      "std": 1151.4483632943918,
+      "count": 3
+    },
+    {
+      "crop": "Carrot",
+      "state": "Jammu and Kashmir",
+      "mean": 2750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Carrot",
+      "state": "Karnataka",
+      "mean": 4300.0,
+      "std": 3252.6911934581185,
+      "count": 2
+    },
+    {
+      "crop": "Carrot",
+      "state": "Kerala",
+      "mean": 6547.058823529412,
+      "std": 999.4483772679455,
+      "count": 17
+    },
+    {
+      "crop": "Carrot",
+      "state": "Maharashtra",
+      "mean": 3125.0,
+      "std": 530.3300858899106,
+      "count": 2
+    },
+    {
+      "crop": "Carrot",
+      "state": "Odisha",
+      "mean": 6275.0,
+      "std": 3217.335854398791,
+      "count": 2
+    },
+    {
+      "crop": "Carrot",
+      "state": "Punjab",
+      "mean": 2383.3333333333335,
+      "std": 611.2828041640521,
+      "count": 6
+    },
+    {
+      "crop": "Carrot",
+      "state": "Tamil Nadu",
+      "mean": 7134.090909090909,
+      "std": 1100.6472450720364,
+      "count": 132
+    },
+    {
+      "crop": "Carrot",
+      "state": "Telangana",
+      "mean": 5750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Carrot",
+      "state": "Tripura",
+      "mean": 19500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Carrot",
+      "state": "Uttar Pradesh",
+      "mean": 2100.0,
+      "std": 777.8174593052023,
+      "count": 2
+    },
+    {
+      "crop": "Carrot",
+      "state": "Uttrakhand",
+      "mean": 1000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Carrot",
+      "state": "West Bengal",
+      "mean": 4900.0,
+      "std": 1587.4507866387544,
+      "count": 3
+    },
+    {
+      "crop": "Cashewnuts",
+      "state": "Kerala",
+      "mean": 12100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Castor Seed",
+      "state": "Gujarat",
+      "mean": 5700.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Chandigarh",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Gujarat",
+      "mean": 2450.0,
+      "std": 1037.6254944182253,
+      "count": 4
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Haryana",
+      "mean": 2060.0,
+      "std": 439.31765272977594,
+      "count": 5
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Himachal Pradesh",
+      "mean": 3233.3333333333335,
+      "std": 843.6033823229176,
+      "count": 6
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Jammu and Kashmir",
+      "mean": 3800.0,
+      "std": 2404.1630560342614,
+      "count": 2
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Karnataka",
+      "mean": 4400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Kerala",
+      "mean": 5600.0,
+      "std": 1204.1594578792296,
+      "count": 13
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Madhya Pradesh",
+      "mean": 1400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Maharashtra",
+      "mean": 2395.0,
+      "std": 1198.2278581304975,
+      "count": 5
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Odisha",
+      "mean": 5850.0,
+      "std": 1386.5424623862048,
+      "count": 3
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Punjab",
+      "mean": 2636.3636363636365,
+      "std": 1125.4090165559608,
+      "count": 11
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Rajasthan",
+      "mean": 2150.0,
+      "std": 919.2388155425118,
+      "count": 2
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Tamil Nadu",
+      "mean": 4605.940594059406,
+      "std": 1662.1565378855394,
+      "count": 101
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Telangana",
+      "mean": 3750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Uttar Pradesh",
+      "mean": 1803.125,
+      "std": 763.5019763282495,
+      "count": 8
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "Uttrakhand",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cauliflower",
+      "state": "West Bengal",
+      "mean": 4950.0,
+      "std": 2333.452377915607,
+      "count": 2
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "state": "Haryana",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "state": "Maharashtra",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "state": "Rajasthan",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "state": "Tamil Nadu",
+      "mean": 4751.724137931034,
+      "std": 872.4434855438949,
+      "count": 29
+    },
+    {
+      "crop": "Chili Red",
+      "state": "Tamil Nadu",
+      "mean": 18333.333333333332,
+      "std": 2886.7513459481283,
+      "count": 3
+    },
+    {
+      "crop": "Chilly Capsicum",
+      "state": "Karnataka",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Chilly Capsicum",
+      "state": "Maharashtra",
+      "mean": 3933.3333333333335,
+      "std": 404.145188432738,
+      "count": 3
+    },
+    {
+      "crop": "Chow Chow",
+      "state": "Tamil Nadu",
+      "mean": 2915.3225806451615,
+      "std": 609.5505947959123,
+      "count": 124
+    },
+    {
+      "crop": "Cluster beans",
+      "state": "Gujarat",
+      "mean": 5500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cluster beans",
+      "state": "Kerala",
+      "mean": 5412.5,
+      "std": 1420.701536967866,
+      "count": 8
+    },
+    {
+      "crop": "Cluster beans",
+      "state": "Tamil Nadu",
+      "mean": 4685.714285714285,
+      "std": 729.233036770694,
+      "count": 147
+    },
+    {
+      "crop": "Coconut",
+      "state": "Karnataka",
+      "mean": 14500.0,
+      "std": 16122.034611053283,
+      "count": 2
+    },
+    {
+      "crop": "Coconut",
+      "state": "Kerala",
+      "mean": 7920.0,
+      "std": 396.2322551231789,
+      "count": 5
+    },
+    {
+      "crop": "Coconut",
+      "state": "Tamil Nadu",
+      "mean": 6959.756097560976,
+      "std": 1178.681779655838,
+      "count": 164
+    },
+    {
+      "crop": "Coconut Oil",
+      "state": "Kerala",
+      "mean": 39600.0,
+      "std": 3111.269837220809,
+      "count": 2
+    },
+    {
+      "crop": "Coconut Seed",
+      "state": "Kerala",
+      "mean": 9014.285714285714,
+      "std": 4181.876999398146,
+      "count": 7
+    },
+    {
+      "crop": "Coffee",
+      "state": "Kerala",
+      "mean": 23600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Colacasia",
+      "state": "Himachal Pradesh",
+      "mean": 3800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Colacasia",
+      "state": "Kerala",
+      "mean": 5533.333333333333,
+      "std": 1012.9464971362535,
+      "count": 12
+    },
+    {
+      "crop": "Colacasia",
+      "state": "Tamil Nadu",
+      "mean": 5034.482758620689,
+      "std": 1353.8187346776474,
+      "count": 58
+    },
+    {
+      "crop": "Colacasia",
+      "state": "Telangana",
+      "mean": 2750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Colacasia",
+      "state": "Uttar Pradesh",
+      "mean": 1650.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Colacasia",
+      "state": "Uttrakhand",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Copra",
+      "state": "Kerala",
+      "mean": 19600.0,
+      "std": 707.1067811865476,
+      "count": 2
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Gujarat",
+      "mean": 5850.0,
+      "std": 5868.986283848344,
+      "count": 2
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Haryana",
+      "mean": 2400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Himachal Pradesh",
+      "mean": 4725.0,
+      "std": 2341.473894793619,
+      "count": 4
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Jammu and Kashmir",
+      "mean": 5500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Kerala",
+      "mean": 8250.0,
+      "std": 1767.7669529663688,
+      "count": 2
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Madhya Pradesh",
+      "mean": 1000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Maharashtra",
+      "mean": 1774.6,
+      "std": 2615.3381808095105,
+      "count": 5
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Punjab",
+      "mean": 2350.0,
+      "std": 2333.452377915607,
+      "count": 2
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Rajasthan",
+      "mean": 2800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "state": "Tamil Nadu",
+      "mean": 6377.419354838709,
+      "std": 1639.5892892079085,
+      "count": 155
+    },
+    {
+      "crop": "Cotton",
+      "state": "Gujarat",
+      "mean": 6713.75,
+      "std": 376.7265807806328,
+      "count": 4
+    },
+    {
+      "crop": "Cotton",
+      "state": "Madhya Pradesh",
+      "mean": 6754.428571428572,
+      "std": 535.7918244251953,
+      "count": 14
+    },
+    {
+      "crop": "Cotton",
+      "state": "Rajasthan",
+      "mean": 7300.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cotton",
+      "state": "Telangana",
+      "mean": 7341.333333333333,
+      "std": 621.2288896480372,
+      "count": 3
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "state": "Gujarat",
+      "mean": 7750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "state": "Kerala",
+      "mean": 5859.96,
+      "std": 1780.8181752591513,
+      "count": 25
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "state": "Tamil Nadu",
+      "mean": 4365.454545454545,
+      "std": 1047.257119692903,
+      "count": 55
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "state": "Tripura",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Chandigarh",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Gujarat",
+      "mean": 2350.0,
+      "std": 1626.3455967290593,
+      "count": 2
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Haryana",
+      "mean": 1700.0,
+      "std": 374.16573867739413,
+      "count": 6
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Himachal Pradesh",
+      "mean": 3025.0,
+      "std": 920.7334033258487,
+      "count": 6
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Jammu and Kashmir",
+      "mean": 2400.0,
+      "std": 304.138126514911,
+      "count": 3
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Karnataka",
+      "mean": 1100.0,
+      "std": 282.842712474619,
+      "count": 2
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Kerala",
+      "mean": 3140.909090909091,
+      "std": 1364.3973345694012,
+      "count": 22
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Madhya Pradesh",
+      "mean": 800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Maharashtra",
+      "mean": 2683.3333333333335,
+      "std": 1172.9592206608604,
+      "count": 3
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Odisha",
+      "mean": 3020.0,
+      "std": 601.6643582596529,
+      "count": 5
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Punjab",
+      "mean": 2050.0,
+      "std": 657.6473218982952,
+      "count": 7
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Rajasthan",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Tamil Nadu",
+      "mean": 4323.529411764706,
+      "std": 1495.3777186751504,
+      "count": 68
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Telangana",
+      "mean": 2250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Tripura",
+      "mean": 4475.0,
+      "std": 671.7514421272201,
+      "count": 2
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Uttar Pradesh",
+      "mean": 1725.0,
+      "std": 474.0780526453424,
+      "count": 6
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "Uttrakhand",
+      "mean": 2200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "state": "West Bengal",
+      "mean": 3800.0,
+      "std": 483.04589153964787,
+      "count": 4
+    },
+    {
+      "crop": "Custard Apple (Sharifa)",
+      "state": "Tamil Nadu",
+      "mean": 4560.606060606061,
+      "std": 1472.442569750047,
+      "count": 33
+    },
+    {
+      "crop": "Dhaincha",
+      "state": "Rajasthan",
+      "mean": 8435.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Drumstick",
+      "state": "Gujarat",
+      "mean": 8500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Drumstick",
+      "state": "Karnataka",
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Drumstick",
+      "state": "Kerala",
+      "mean": 7843.75,
+      "std": 1985.268663598624,
+      "count": 16
+    },
+    {
+      "crop": "Drumstick",
+      "state": "Maharashtra",
+      "mean": 10000.0,
+      "std": 1414.213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Drumstick",
+      "state": "Tamil Nadu",
+      "mean": 8101.324503311258,
+      "std": 1561.9213277228735,
+      "count": 151
+    },
+    {
+      "crop": "Dry Chillies",
+      "state": "Andhra Pradesh",
+      "mean": 14650.0,
+      "std": 636.3961030678928,
+      "count": 2
+    },
+    {
+      "crop": "Duster Beans",
+      "state": "Kerala",
+      "mean": 8000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "state": "Gujarat",
+      "mean": 3900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "state": "Kerala",
+      "mean": 4811.111111111111,
+      "std": 1644.2661314735856,
+      "count": 9
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "state": "Maharashtra",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "state": "Punjab",
+      "mean": 5500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "state": "Tamil Nadu",
+      "mean": 5258.333333333333,
+      "std": 1071.8077858574086,
+      "count": 96
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "state": "Uttar Pradesh",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Field Pea",
+      "state": "Kerala",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Field Pea",
+      "state": "Telangana",
+      "mean": 5750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Fig(Anjura/Anjeer)",
+      "state": "Tamil Nadu",
+      "mean": 15000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Firewood",
+      "state": "Uttar Pradesh",
+      "mean": 320.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Fish",
+      "state": "West Bengal",
+      "mean": 16800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "state": "Gujarat",
+      "mean": 4200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "state": "Himachal Pradesh",
+      "mean": 7150.0,
+      "std": 3423.0834053525487,
+      "count": 3
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "state": "Kerala",
+      "mean": 6600.0,
+      "std": 793.7253933193772,
+      "count": 3
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "state": "Punjab",
+      "mean": 6500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "state": "Telangana",
+      "mean": 7750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "state": "West Bengal",
+      "mean": 6600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Garlic",
+      "state": "Haryana",
+      "mean": 7500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Garlic",
+      "state": "Himachal Pradesh",
+      "mean": 8112.5,
+      "std": 2148.788418310809,
+      "count": 4
+    },
+    {
+      "crop": "Garlic",
+      "state": "Jammu and Kashmir",
+      "mean": 10000.0,
+      "std": 3535.5339059327375,
+      "count": 2
+    },
+    {
+      "crop": "Garlic",
+      "state": "Kerala",
+      "mean": 10600.0,
+      "std": 1276.7145334803704,
+      "count": 3
+    },
+    {
+      "crop": "Garlic",
+      "state": "Madhya Pradesh",
+      "mean": 6450.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Garlic",
+      "state": "Maharashtra",
+      "mean": 4750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Garlic",
+      "state": "Punjab",
+      "mean": 5950.0,
+      "std": 1653.7835408541227,
+      "count": 6
+    },
+    {
+      "crop": "Garlic",
+      "state": "Rajasthan",
+      "mean": 7150.0,
+      "std": 919.2388155425118,
+      "count": 2
+    },
+    {
+      "crop": "Garlic",
+      "state": "Tamil Nadu",
+      "mean": 13354.166666666666,
+      "std": 2645.6675410165676,
+      "count": 48
+    },
+    {
+      "crop": "Garlic",
+      "state": "Uttar Pradesh",
+      "mean": 5190.0,
+      "std": 1793.4324631833783,
+      "count": 6
+    },
+    {
+      "crop": "Garlic",
+      "state": "West Bengal",
+      "mean": 7000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Dry)",
+      "state": "Kerala",
+      "mean": 25500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Dry)",
+      "state": "Punjab",
+      "mean": 5560.0,
+      "std": 1947.562579225633,
+      "count": 5
+    },
+    {
+      "crop": "Ginger(Dry)",
+      "state": "West Bengal",
+      "mean": 7633.333333333333,
+      "std": 1401.18997046558,
+      "count": 3
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Chandigarh",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Gujarat",
+      "mean": 3900.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Haryana",
+      "mean": 7500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Himachal Pradesh",
+      "mean": 5875.0,
+      "std": 1937.997248020062,
+      "count": 4
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Jammu and Kashmir",
+      "mean": 6250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Karnataka",
+      "mean": 6000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Kerala",
+      "mean": 8894.117647058823,
+      "std": 2882.5922769781573,
+      "count": 17
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Maharashtra",
+      "mean": 4100.0,
+      "std": 173.20508075688772,
+      "count": 3
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Nagaland",
+      "mean": 16100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Punjab",
+      "mean": 5700.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Rajasthan",
+      "mean": 4650.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Tamil Nadu",
+      "mean": 9293.846153846154,
+      "std": 1664.7160917316698,
+      "count": 130
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Tripura",
+      "mean": 9950.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Uttar Pradesh",
+      "mean": 4025.0,
+      "std": 1643.4212282106294,
+      "count": 4
+    },
+    {
+      "crop": "Ginger(Green)",
+      "state": "Uttrakhand",
+      "mean": 3600.0,
+      "std": 848.5281374238571,
+      "count": 2
+    },
+    {
+      "crop": "Gram Raw(Chholia)",
+      "state": "Gujarat",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Grapes",
+      "state": "Haryana",
+      "mean": 10750.0,
+      "std": 4596.194077712559,
+      "count": 2
+    },
+    {
+      "crop": "Grapes",
+      "state": "Kerala",
+      "mean": 7500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Grapes",
+      "state": "Punjab",
+      "mean": 15000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Grapes",
+      "state": "Rajasthan",
+      "mean": 15000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Grapes",
+      "state": "Tamil Nadu",
+      "mean": 10047.619047619048,
+      "std": 1627.1505915615332,
+      "count": 21
+    },
+    {
+      "crop": "Green Avare (W)",
+      "state": "Karnataka",
+      "mean": 3800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Avare (W)",
+      "state": "Kerala",
+      "mean": 5900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Avare (W)",
+      "state": "Tamil Nadu",
+      "mean": 10351.28205128205,
+      "std": 2828.4612672251924,
+      "count": 78
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Chandigarh",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Gujarat",
+      "mean": 2575.0,
+      "std": 1027.5375094532235,
+      "count": 4
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Haryana",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Himachal Pradesh",
+      "mean": 4500.0,
+      "std": 820.8227579691002,
+      "count": 5
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Jammu and Kashmir",
+      "mean": 3925.0,
+      "std": 954.5941546018391,
+      "count": 2
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Karnataka",
+      "mean": 3250.0,
+      "std": 1060.6601717798212,
+      "count": 2
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Kerala",
+      "mean": 5505.882352941177,
+      "std": 1047.300451300446,
+      "count": 17
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Madhya Pradesh",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Maharashtra",
+      "mean": 2943.75,
+      "std": 200.39024427351742,
+      "count": 4
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Nagaland",
+      "mean": 11550.0,
+      "std": 3606.2445840513924,
+      "count": 2
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Punjab",
+      "mean": 3210.0,
+      "std": 982.5703254446698,
+      "count": 10
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Rajasthan",
+      "mean": 2750.0,
+      "std": 212.13203435596427,
+      "count": 2
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Tamil Nadu",
+      "mean": 5017.682926829269,
+      "std": 1026.814478115426,
+      "count": 164
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Telangana",
+      "mean": 5750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Tripura",
+      "mean": 19500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Uttar Pradesh",
+      "mean": 2681.4285714285716,
+      "std": 761.1818456832783,
+      "count": 14
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "Uttrakhand",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Chilli",
+      "state": "West Bengal",
+      "mean": 5100.0,
+      "std": 1554.716326904319,
+      "count": 8
+    },
+    {
+      "crop": "Green Gram (Moong)(Whole)",
+      "state": "Rajasthan",
+      "mean": 5487.5,
+      "std": 1396.5358928434314,
+      "count": 2
+    },
+    {
+      "crop": "Green Gram Dal (Moong Dal)",
+      "state": "Uttar Pradesh",
+      "mean": 9825.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Gram Dal (Moong Dal)",
+      "state": "West Bengal",
+      "mean": 12000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Peas",
+      "state": "Punjab",
+      "mean": 13000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Peas",
+      "state": "Rajasthan",
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Green Peas",
+      "state": "Tamil Nadu",
+      "mean": 25046.153846153848,
+      "std": 6835.7656709173625,
+      "count": 13
+    },
+    {
+      "crop": "Ground Nut Seed",
+      "state": "Karnataka",
+      "mean": 9808.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Groundnut",
+      "state": "Gujarat",
+      "mean": 6100.0,
+      "std": 733.3314393914937,
+      "count": 3
+    },
+    {
+      "crop": "Groundnut",
+      "state": "Madhya Pradesh",
+      "mean": 4500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Groundnut",
+      "state": "Tamil Nadu",
+      "mean": 6231.111111111111,
+      "std": 980.2184872916255,
+      "count": 45
+    },
+    {
+      "crop": "Groundnut pods (raw)",
+      "state": "Gujarat",
+      "mean": 4500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Guar",
+      "state": "Gujarat",
+      "mean": 5000.0,
+      "std": 2121.3203435596424,
+      "count": 2
+    },
+    {
+      "crop": "Guar",
+      "state": "Maharashtra",
+      "mean": 7566.666666666667,
+      "std": 1401.18997046558,
+      "count": 3
+    },
+    {
+      "crop": "Guar",
+      "state": "Punjab",
+      "mean": 8000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Guar",
+      "state": "Rajasthan",
+      "mean": 4087.5,
+      "std": 271.95281453467874,
+      "count": 4
+    },
+    {
+      "crop": "Guava",
+      "state": "Haryana",
+      "mean": 2750.0,
+      "std": 953.9392014169456,
+      "count": 4
+    },
+    {
+      "crop": "Guava",
+      "state": "Himachal Pradesh",
+      "mean": 5450.0,
+      "std": 777.8174593052023,
+      "count": 2
+    },
+    {
+      "crop": "Guava",
+      "state": "Jammu and Kashmir",
+      "mean": 5500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Guava",
+      "state": "Punjab",
+      "mean": 3762.5,
+      "std": 1846.336462656071,
+      "count": 4
+    },
+    {
+      "crop": "Guava",
+      "state": "Rajasthan",
+      "mean": 5400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Guava",
+      "state": "Tamil Nadu",
+      "mean": 5891.0,
+      "std": 1466.328817837323,
+      "count": 100
+    },
+    {
+      "crop": "Guava",
+      "state": "Uttar Pradesh",
+      "mean": 2325.0,
+      "std": 318.1980515339464,
+      "count": 2
+    },
+    {
+      "crop": "Gur(Jaggery)",
+      "state": "Karnataka",
+      "mean": 4846.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Gur(Jaggery)",
+      "state": "Uttar Pradesh",
+      "mean": 3673.75,
+      "std": 400.10489696007045,
+      "count": 8
+    },
+    {
+      "crop": "Gur(Jaggery)",
+      "state": "West Bengal",
+      "mean": 4600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "state": "Gujarat",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "state": "Himachal Pradesh",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "state": "Jammu and Kashmir",
+      "mean": 9000.0,
+      "std": 2121.3203435596424,
+      "count": 2
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "state": "Kerala",
+      "mean": 7520.0,
+      "std": 1684.339633209407,
+      "count": 5
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "state": "Tamil Nadu",
+      "mean": 6957.575757575758,
+      "std": 1213.2163613279947,
+      "count": 33
+    },
+    {
+      "crop": "Jasmine",
+      "state": "Tamil Nadu",
+      "mean": 59590.90909090909,
+      "std": 15555.305605083187,
+      "count": 22
+    },
+    {
+      "crop": "Jowar(Sorghum)",
+      "state": "Gujarat",
+      "mean": 3600.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Jowar(Sorghum)",
+      "state": "Rajasthan",
+      "mean": 2125.0,
+      "std": 247.48737341529164,
+      "count": 2
+    },
+    {
+      "crop": "Jute",
+      "state": "West Bengal",
+      "mean": 8550.0,
+      "std": 327.87192621510013,
+      "count": 7
+    },
+    {
+      "crop": "Kabuli Chana(Chickpeas-White)",
+      "state": "Madhya Pradesh",
+      "mean": 8005.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Kakada",
+      "state": "Tamil Nadu",
+      "mean": 49444.444444444445,
+      "std": 10137.937550497032,
+      "count": 9
+    },
+    {
+      "crop": "Karbuja(Musk Melon)",
+      "state": "Tamil Nadu",
+      "mean": 6500.0,
+      "std": 408.248290463863,
+      "count": 4
+    },
+    {
+      "crop": "Kinnow",
+      "state": "Jammu and Kashmir",
+      "mean": 2250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Kinnow",
+      "state": "Punjab",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Knool Khol",
+      "state": "Jammu and Kashmir",
+      "mean": 2575.0,
+      "std": 247.48737341529164,
+      "count": 2
+    },
+    {
+      "crop": "Knool Khol",
+      "state": "Karnataka",
+      "mean": 4250.0,
+      "std": 4171.93000900063,
+      "count": 2
+    },
+    {
+      "crop": "Knool Khol",
+      "state": "Tamil Nadu",
+      "mean": 7320.0,
+      "std": 2342.236980767333,
+      "count": 55
+    },
+    {
+      "crop": "Kodo Millet(Varagu)",
+      "state": "Madhya Pradesh",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Kulthi(Horse Gram)",
+      "state": "Karnataka",
+      "mean": 3200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "state": "Haryana",
+      "mean": 900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "state": "Kerala",
+      "mean": 6700.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "state": "Nagaland",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "state": "Punjab",
+      "mean": 800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lemon",
+      "state": "Andhra Pradesh",
+      "mean": 800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lemon",
+      "state": "Chandigarh",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lemon",
+      "state": "Gujarat",
+      "mean": 2100.0,
+      "std": 458.257569495584,
+      "count": 3
+    },
+    {
+      "crop": "Lemon",
+      "state": "Himachal Pradesh",
+      "mean": 4450.0,
+      "std": 1167.618659209133,
+      "count": 4
+    },
+    {
+      "crop": "Lemon",
+      "state": "Jammu and Kashmir",
+      "mean": 4500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lemon",
+      "state": "Kerala",
+      "mean": 6785.714285714285,
+      "std": 1229.4017127971522,
+      "count": 7
+    },
+    {
+      "crop": "Lemon",
+      "state": "Odisha",
+      "mean": 900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lemon",
+      "state": "Punjab",
+      "mean": 4175.0,
+      "std": 2736.6341857593366,
+      "count": 4
+    },
+    {
+      "crop": "Lemon",
+      "state": "Tamil Nadu",
+      "mean": 7937.931034482759,
+      "std": 1707.868593920392,
+      "count": 145
+    },
+    {
+      "crop": "Lemon",
+      "state": "Uttar Pradesh",
+      "mean": 4728.0,
+      "std": 1364.796688155419,
+      "count": 5
+    },
+    {
+      "crop": "Lemon",
+      "state": "Uttrakhand",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lime",
+      "state": "Maharashtra",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lime",
+      "state": "Rajasthan",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Lime",
+      "state": "Tamil Nadu",
+      "mean": 8142.857142857143,
+      "std": 6380.876461394971,
+      "count": 56
+    },
+    {
+      "crop": "Little gourd (Kundru)",
+      "state": "Gujarat",
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Little gourd (Kundru)",
+      "state": "Kerala",
+      "mean": 5644.444444444444,
+      "std": 1139.200499375671,
+      "count": 9
+    },
+    {
+      "crop": "Little gourd (Kundru)",
+      "state": "Maharashtra",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Long Melon(Kakri)",
+      "state": "Kerala",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mahua",
+      "state": "Chattisgarh",
+      "mean": 3100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Maize",
+      "state": "Gujarat",
+      "mean": 2169.0,
+      "std": 59.83310120660636,
+      "count": 5
+    },
+    {
+      "crop": "Maize",
+      "state": "Karnataka",
+      "mean": 1733.3333333333333,
+      "std": 208.16659994661325,
+      "count": 3
+    },
+    {
+      "crop": "Maize",
+      "state": "Madhya Pradesh",
+      "mean": 1643.1842105263158,
+      "std": 243.3931149244019,
+      "count": 38
+    },
+    {
+      "crop": "Maize",
+      "state": "Maharashtra",
+      "mean": 1230.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Maize",
+      "state": "Rajasthan",
+      "mean": 2287.5,
+      "std": 654.0737725975565,
+      "count": 2
+    },
+    {
+      "crop": "Maize",
+      "state": "Tamil Nadu",
+      "mean": 2884.2105263157896,
+      "std": 581.482874089319,
+      "count": 38
+    },
+    {
+      "crop": "Maize",
+      "state": "Telangana",
+      "mean": 2312.5,
+      "std": 123.74368670764582,
+      "count": 2
+    },
+    {
+      "crop": "Maize",
+      "state": "Uttar Pradesh",
+      "mean": 2415.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mango",
+      "state": "Kerala",
+      "mean": 5250.0,
+      "std": 1060.6601717798212,
+      "count": 2
+    },
+    {
+      "crop": "Mango",
+      "state": "Tamil Nadu",
+      "mean": 8333.333333333334,
+      "std": 3511.8845842842466,
+      "count": 3
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "state": "Gujarat",
+      "mean": 4750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "state": "Kerala",
+      "mean": 5485.714285714285,
+      "std": 1361.8964368709924,
+      "count": 7
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "state": "Maharashtra",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "state": "Tamil Nadu",
+      "mean": 5256.481481481482,
+      "std": 934.6170336848458,
+      "count": 108
+    },
+    {
+      "crop": "Marigold(Calcutta)",
+      "state": "Tamil Nadu",
+      "mean": 17291.666666666668,
+      "std": 7374.923237134282,
+      "count": 24
+    },
+    {
+      "crop": "Mashrooms",
+      "state": "Jammu and Kashmir",
+      "mean": 16500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mashrooms",
+      "state": "Tamil Nadu",
+      "mean": 14014.893617021276,
+      "std": 9324.27823814528,
+      "count": 47
+    },
+    {
+      "crop": "Masur Dal",
+      "state": "West Bengal",
+      "mean": 9500.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "state": "Gujarat",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "state": "Haryana",
+      "mean": 2800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "state": "Himachal Pradesh",
+      "mean": 2750.0,
+      "std": 1767.7669529663688,
+      "count": 2
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "state": "Maharashtra",
+      "mean": 1782.6666666666667,
+      "std": 1921.655883172982,
+      "count": 3
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "state": "Punjab",
+      "mean": 825.0,
+      "std": 106.06601717798213,
+      "count": 2
+    },
+    {
+      "crop": "Mint(Pudina)",
+      "state": "Maharashtra",
+      "mean": 5.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mint(Pudina)",
+      "state": "Tamil Nadu",
+      "mean": 4571.612903225807,
+      "std": 1154.1992692248505,
+      "count": 155
+    },
+    {
+      "crop": "Moath Dal",
+      "state": "Rajasthan",
+      "mean": 3818.5,
+      "std": 214.2533546995239,
+      "count": 2
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Andhra Pradesh",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Haryana",
+      "mean": 3250.0,
+      "std": 353.5533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Himachal Pradesh",
+      "mean": 5316.666666666667,
+      "std": 700.5949852327901,
+      "count": 3
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Jammu and Kashmir",
+      "mean": 5500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Punjab",
+      "mean": 3283.3333333333335,
+      "std": 660.1767440112786,
+      "count": 3
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Rajasthan",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Tamil Nadu",
+      "mean": 5459.259259259259,
+      "std": 1566.0482503764442,
+      "count": 27
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Uttar Pradesh",
+      "mean": 2833.3333333333335,
+      "std": 407.2263907623538,
+      "count": 3
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "state": "Uttrakhand",
+      "mean": 3500.0,
+      "std": 707.1067811865476,
+      "count": 2
+    },
+    {
+      "crop": "Mustard",
+      "state": "Madhya Pradesh",
+      "mean": 6400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mustard",
+      "state": "Rajasthan",
+      "mean": 6930.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Mustard",
+      "state": "West Bengal",
+      "mean": 6850.0,
+      "std": 487.8524367060187,
+      "count": 6
+    },
+    {
+      "crop": "Mustard Oil",
+      "state": "West Bengal",
+      "mean": 16225.0,
+      "std": 35.35533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Onion",
+      "state": "Chandigarh",
+      "mean": 1100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Onion",
+      "state": "Gujarat",
+      "mean": 1387.5,
+      "std": 123.74368670764582,
+      "count": 2
+    },
+    {
+      "crop": "Onion",
+      "state": "Haryana",
+      "mean": 1359.090909090909,
+      "std": 217.73628753400502,
+      "count": 11
+    },
+    {
+      "crop": "Onion",
+      "state": "Himachal Pradesh",
+      "mean": 2033.3333333333333,
+      "std": 325.06409624359725,
+      "count": 6
+    },
+    {
+      "crop": "Onion",
+      "state": "Jammu and Kashmir",
+      "mean": 2200.0,
+      "std": 264.5751311064591,
+      "count": 3
+    },
+    {
+      "crop": "Onion",
+      "state": "Kerala",
+      "mean": 3385.714285714286,
+      "std": 1519.6334144410337,
+      "count": 21
+    },
+    {
+      "crop": "Onion",
+      "state": "Madhya Pradesh",
+      "mean": 666.6666666666666,
+      "std": 152.75252316519467,
+      "count": 3
+    },
+    {
+      "crop": "Onion",
+      "state": "Maharashtra",
+      "mean": 1133.3333333333333,
+      "std": 160.72751268321593,
+      "count": 3
+    },
+    {
+      "crop": "Onion",
+      "state": "Odisha",
+      "mean": 2150.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Onion",
+      "state": "Punjab",
+      "mean": 1620.0,
+      "std": 329.3090409394258,
+      "count": 10
+    },
+    {
+      "crop": "Onion",
+      "state": "Rajasthan",
+      "mean": 1400.0,
+      "std": 316.22776601683796,
+      "count": 6
+    },
+    {
+      "crop": "Onion",
+      "state": "Tamil Nadu",
+      "mean": 3219.753086419753,
+      "std": 400.59575295870457,
+      "count": 162
+    },
+    {
+      "crop": "Onion",
+      "state": "Tripura",
+      "mean": 2750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Onion",
+      "state": "Uttar Pradesh",
+      "mean": 1408.2608695652175,
+      "std": 384.49378968755843,
+      "count": 23
+    },
+    {
+      "crop": "Onion",
+      "state": "Uttrakhand",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Onion",
+      "state": "West Bengal",
+      "mean": 1592.3333333333333,
+      "std": 173.3788859556956,
+      "count": 15
+    },
+    {
+      "crop": "Onion Green",
+      "state": "Haryana",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Onion Green",
+      "state": "Maharashtra",
+      "mean": 14.5,
+      "std": 6.363961030678928,
+      "count": 2
+    },
+    {
+      "crop": "Onion Green",
+      "state": "Rajasthan",
+      "mean": 900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Onion Green",
+      "state": "Tamil Nadu",
+      "mean": 5694.117647058823,
+      "std": 1012.0481639072871,
+      "count": 153
+    },
+    {
+      "crop": "Orange",
+      "state": "Haryana",
+      "mean": 4066.6666666666665,
+      "std": 115.47005383792512,
+      "count": 3
+    },
+    {
+      "crop": "Orange",
+      "state": "Himachal Pradesh",
+      "mean": 6266.666666666667,
+      "std": 2844.8784391135828,
+      "count": 3
+    },
+    {
+      "crop": "Orange",
+      "state": "Jammu and Kashmir",
+      "mean": 4500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Orange",
+      "state": "Kerala",
+      "mean": 7000.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Orange",
+      "state": "Maharashtra",
+      "mean": 7000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Orange",
+      "state": "Punjab",
+      "mean": 5400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Orange",
+      "state": "Rajasthan",
+      "mean": 7100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Orange",
+      "state": "Tamil Nadu",
+      "mean": 10600.0,
+      "std": 4649.844366382486,
+      "count": 20
+    },
+    {
+      "crop": "Paddy(Dhan)(Basmati)",
+      "state": "Haryana",
+      "mean": 3733.3333333333335,
+      "std": 208.16659994661333,
+      "count": 3
+    },
+    {
+      "crop": "Paddy(Dhan)(Basmati)",
+      "state": "Punjab",
+      "mean": 3287.5,
+      "std": 432.7720724199595,
+      "count": 4
+    },
+    {
+      "crop": "Paddy(Dhan)(Basmati)",
+      "state": "Uttar Pradesh",
+      "mean": 2671.8333333333335,
+      "std": 123.27273285956902,
+      "count": 6
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Haryana",
+      "mean": 2389.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Karnataka",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Kerala",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Madhya Pradesh",
+      "mean": 2536.1,
+      "std": 349.26094988004473,
+      "count": 10
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Punjab",
+      "mean": 2389.0,
+      "std": 0.0,
+      "count": 6
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Rajasthan",
+      "mean": 2635.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Tamil Nadu",
+      "mean": 1966.75,
+      "std": 243.86886379214695,
+      "count": 12
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Telangana",
+      "mean": 2424.5,
+      "std": 206.72109498334,
+      "count": 10
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Uttar Pradesh",
+      "mean": 2295.0,
+      "std": 66.58328118479398,
+      "count": 4
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "Uttrakhand",
+      "mean": 2234.5,
+      "std": 190.21172413918129,
+      "count": 2
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "state": "West Bengal",
+      "mean": 2464.0,
+      "std": 276.5501762790977,
+      "count": 5
+    },
+    {
+      "crop": "Papaya",
+      "state": "Himachal Pradesh",
+      "mean": 4070.0,
+      "std": 408.65633483405094,
+      "count": 5
+    },
+    {
+      "crop": "Papaya",
+      "state": "Jammu and Kashmir",
+      "mean": 5000.0,
+      "std": 1767.7669529663688,
+      "count": 2
+    },
+    {
+      "crop": "Papaya",
+      "state": "Kerala",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya",
+      "state": "Maharashtra",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya",
+      "state": "Punjab",
+      "mean": 3350.0,
+      "std": 746.6592261534039,
+      "count": 3
+    },
+    {
+      "crop": "Papaya",
+      "state": "Rajasthan",
+      "mean": 2700.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya",
+      "state": "Tamil Nadu",
+      "mean": 3186.71875,
+      "std": 613.2873976257903,
+      "count": 128
+    },
+    {
+      "crop": "Papaya",
+      "state": "Uttar Pradesh",
+      "mean": 2325.0,
+      "std": 442.2951503238533,
+      "count": 3
+    },
+    {
+      "crop": "Papaya",
+      "state": "Uttrakhand",
+      "mean": 1900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "state": "Gujarat",
+      "mean": 950.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "state": "Kerala",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "state": "Odisha",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "state": "Punjab",
+      "mean": 2600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pear(Marasebu)",
+      "state": "Maharashtra",
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pear(Marasebu)",
+      "state": "Tamil Nadu",
+      "mean": 16000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Chandigarh",
+      "mean": 9000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Himachal Pradesh",
+      "mean": 14916.666666666666,
+      "std": 629.1528696058961,
+      "count": 3
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Jammu and Kashmir",
+      "mean": 8500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Karnataka",
+      "mean": 24000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Maharashtra",
+      "mean": 14750.0,
+      "std": 1060.6601717798212,
+      "count": 2
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Punjab",
+      "mean": 8375.0,
+      "std": 2495.82985531199,
+      "count": 4
+    },
+    {
+      "crop": "Peas Wet",
+      "state": "Rajasthan",
+      "mean": 8300.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas cod",
+      "state": "Gujarat",
+      "mean": 13000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas cod",
+      "state": "Haryana",
+      "mean": 12000.0,
+      "std": 2828.42712474619,
+      "count": 2
+    },
+    {
+      "crop": "Peas cod",
+      "state": "Himachal Pradesh",
+      "mean": 9000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas(Dry)",
+      "state": "Uttar Pradesh",
+      "mean": 4150.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Peas(Dry)",
+      "state": "West Bengal",
+      "mean": 6225.0,
+      "std": 247.48737341529164,
+      "count": 2
+    },
+    {
+      "crop": "Pegeon Pea (Arhar Fali)",
+      "state": "Gujarat",
+      "mean": 9250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pepper garbled",
+      "state": "Kerala",
+      "mean": 67100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pepper ungarbled",
+      "state": "Kerala",
+      "mean": 61000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Persimon(Japani Fal)",
+      "state": "Himachal Pradesh",
+      "mean": 8500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Himachal Pradesh",
+      "mean": 4100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Jammu and Kashmir",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Kerala",
+      "mean": 4300.0,
+      "std": 1102.8887688083673,
+      "count": 12
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Maharashtra",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Punjab",
+      "mean": 6200.0,
+      "std": 2545.584412271571,
+      "count": 2
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Rajasthan",
+      "mean": 6000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pineapple",
+      "state": "Tamil Nadu",
+      "mean": 6276.923076923077,
+      "std": 1309.6779796027763,
+      "count": 13
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "state": "Gujarat",
+      "mean": 2975.0,
+      "std": 1096.0155108391486,
+      "count": 2
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "state": "Maharashtra",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "state": "Odisha",
+      "mean": 3750.0,
+      "std": 353.5533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "state": "Tripura",
+      "mean": 6475.0,
+      "std": 2085.965004500315,
+      "count": 2
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "state": "Uttar Pradesh",
+      "mean": 2530.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "state": "West Bengal",
+      "mean": 2700.0,
+      "std": 360.5551275463989,
+      "count": 3
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Gujarat",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Haryana",
+      "mean": 9625.0,
+      "std": 3837.8596465564847,
+      "count": 4
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Himachal Pradesh",
+      "mean": 14300.0,
+      "std": 3365.263734092768,
+      "count": 5
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Jammu and Kashmir",
+      "mean": 14900.0,
+      "std": 5092.150822589606,
+      "count": 3
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Maharashtra",
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Punjab",
+      "mean": 8833.333333333334,
+      "std": 3752.7767497325676,
+      "count": 3
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Rajasthan",
+      "mean": 14500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Tamil Nadu",
+      "mean": 18879.310344827587,
+      "std": 2852.490053863319,
+      "count": 29
+    },
+    {
+      "crop": "Pomegranate",
+      "state": "Uttar Pradesh",
+      "mean": 6337.5,
+      "std": 194.45436482630058,
+      "count": 2
+    },
+    {
+      "crop": "Potato",
+      "state": "Chandigarh",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Potato",
+      "state": "Gujarat",
+      "mean": 1837.5,
+      "std": 194.45436482630058,
+      "count": 2
+    },
+    {
+      "crop": "Potato",
+      "state": "Haryana",
+      "mean": 1316.6666666666667,
+      "std": 339.1164991562634,
+      "count": 9
+    },
+    {
+      "crop": "Potato",
+      "state": "Himachal Pradesh",
+      "mean": 1775.0,
+      "std": 527.7986629117476,
+      "count": 8
+    },
+    {
+      "crop": "Potato",
+      "state": "Jammu and Kashmir",
+      "mean": 1933.3333333333333,
+      "std": 505.79969684978397,
+      "count": 3
+    },
+    {
+      "crop": "Potato",
+      "state": "Kerala",
+      "mean": 3571.4285714285716,
+      "std": 632.9765719671943,
+      "count": 14
+    },
+    {
+      "crop": "Potato",
+      "state": "Madhya Pradesh",
+      "mean": 500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Potato",
+      "state": "Maharashtra",
+      "mean": 1775.0,
+      "std": 35.35533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Potato",
+      "state": "Nagaland",
+      "mean": 5100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Potato",
+      "state": "Odisha",
+      "mean": 1425.0,
+      "std": 434.9329450233297,
+      "count": 4
+    },
+    {
+      "crop": "Potato",
+      "state": "Punjab",
+      "mean": 1050.0,
+      "std": 424.85291572496004,
+      "count": 11
+    },
+    {
+      "crop": "Potato",
+      "state": "Rajasthan",
+      "mean": 1191.6666666666667,
+      "std": 245.79802006254377,
+      "count": 6
+    },
+    {
+      "crop": "Potato",
+      "state": "Tamil Nadu",
+      "mean": 4384.0,
+      "std": 562.1003084474842,
+      "count": 75
+    },
+    {
+      "crop": "Potato",
+      "state": "Telangana",
+      "mean": 2250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Potato",
+      "state": "Tripura",
+      "mean": 2100.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Potato",
+      "state": "Uttar Pradesh",
+      "mean": 1184.8076923076924,
+      "std": 248.31222591419362,
+      "count": 26
+    },
+    {
+      "crop": "Potato",
+      "state": "Uttrakhand",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Potato",
+      "state": "West Bengal",
+      "mean": 1392.9545454545455,
+      "std": 222.56437854563026,
+      "count": 22
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Chandigarh",
+      "mean": 1600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Gujarat",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Himachal Pradesh",
+      "mean": 1300.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Jammu and Kashmir",
+      "mean": 1750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Kerala",
+      "mean": 2747.0588235294117,
+      "std": 706.3264534360363,
+      "count": 17
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Odisha",
+      "mean": 2160.0,
+      "std": 988.9388252060893,
+      "count": 5
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Punjab",
+      "mean": 1283.3333333333333,
+      "std": 419.3248541803041,
+      "count": 3
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Rajasthan",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Tamil Nadu",
+      "mean": 2653.846153846154,
+      "std": 597.974189321126,
+      "count": 143
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Uttar Pradesh",
+      "mean": 1294.5454545454545,
+      "std": 523.6528169763558,
+      "count": 11
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "Uttrakhand",
+      "mean": 800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Pumpkin",
+      "state": "West Bengal",
+      "mean": 2100.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Raddish",
+      "state": "Gujarat",
+      "mean": 500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Raddish",
+      "state": "Haryana",
+      "mean": 1000.0,
+      "std": 273.8612787525831,
+      "count": 5
+    },
+    {
+      "crop": "Raddish",
+      "state": "Himachal Pradesh",
+      "mean": 1687.5,
+      "std": 702.8216938408584,
+      "count": 4
+    },
+    {
+      "crop": "Raddish",
+      "state": "Jammu and Kashmir",
+      "mean": 1183.3333333333333,
+      "std": 678.8470618138767,
+      "count": 3
+    },
+    {
+      "crop": "Raddish",
+      "state": "Karnataka",
+      "mean": 2475.0,
+      "std": 1025.304832720494,
+      "count": 2
+    },
+    {
+      "crop": "Raddish",
+      "state": "Kerala",
+      "mean": 2500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Raddish",
+      "state": "Maharashtra",
+      "mean": 930.0,
+      "std": 1294.005409571382,
+      "count": 2
+    },
+    {
+      "crop": "Raddish",
+      "state": "Punjab",
+      "mean": 1344.4444444444443,
+      "std": 596.0518247415888,
+      "count": 9
+    },
+    {
+      "crop": "Raddish",
+      "state": "Rajasthan",
+      "mean": 950.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Raddish",
+      "state": "Tamil Nadu",
+      "mean": 4377.777777777777,
+      "std": 814.0398139608715,
+      "count": 153
+    },
+    {
+      "crop": "Raddish",
+      "state": "Uttar Pradesh",
+      "mean": 1173.75,
+      "std": 317.05349180645635,
+      "count": 4
+    },
+    {
+      "crop": "Raddish",
+      "state": "Uttrakhand",
+      "mean": 700.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Raddish",
+      "state": "West Bengal",
+      "mean": 2300.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Rat Tail Radish (Mogari)",
+      "state": "Gujarat",
+      "mean": 7750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Rice",
+      "state": "Maharashtra",
+      "mean": 3720.0,
+      "std": 1109.9549540409287,
+      "count": 5
+    },
+    {
+      "crop": "Rice",
+      "state": "Tripura",
+      "mean": 3600.0,
+      "std": 494.9747468305833,
+      "count": 2
+    },
+    {
+      "crop": "Rice",
+      "state": "Uttar Pradesh",
+      "mean": 2947.5,
+      "std": 487.5217943846203,
+      "count": 6
+    },
+    {
+      "crop": "Rice",
+      "state": "West Bengal",
+      "mean": 3959.375,
+      "std": 523.4341296127701,
+      "count": 24
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Gujarat",
+      "mean": 6000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Haryana",
+      "mean": 3200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Karnataka",
+      "mean": 3375.0,
+      "std": 883.8834764831844,
+      "count": 2
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Kerala",
+      "mean": 3400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Maharashtra",
+      "mean": 3250.0,
+      "std": 353.5533905932738,
+      "count": 2
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Punjab",
+      "mean": 2233.3333333333335,
+      "std": 1167.618659209133,
+      "count": 3
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Tamil Nadu",
+      "mean": 5343.835616438356,
+      "std": 964.8278461941727,
+      "count": 146
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "Telangana",
+      "mean": 4750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "state": "West Bengal",
+      "mean": 3066.6666666666665,
+      "std": 642.9100507328636,
+      "count": 3
+    },
+    {
+      "crop": "Rose(Local)",
+      "state": "Tamil Nadu",
+      "mean": 17416.666666666668,
+      "std": 5640.819140843832,
+      "count": 24
+    },
+    {
+      "crop": "Round gourd",
+      "state": "Haryana",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Round gourd",
+      "state": "Jammu and Kashmir",
+      "mean": 3750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Round gourd",
+      "state": "Punjab",
+      "mean": 2800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Rubber",
+      "state": "Kerala",
+      "mean": 18400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Seemebadnekai",
+      "state": "Karnataka",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Seetapal",
+      "state": "Maharashtra",
+      "mean": 1250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sesamum(Sesame,Gingelly,Til)",
+      "state": "Gujarat",
+      "mean": 10305.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Snakeguard",
+      "state": "Karnataka",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Snakeguard",
+      "state": "Kerala",
+      "mean": 4681.25,
+      "std": 1161.7336183480274,
+      "count": 16
+    },
+    {
+      "crop": "Snakeguard",
+      "state": "Tamil Nadu",
+      "mean": 4676.5822784810125,
+      "std": 1009.7718555166318,
+      "count": 158
+    },
+    {
+      "crop": "Soyabean",
+      "state": "Gujarat",
+      "mean": 4221.666666666667,
+      "std": 50.33222956847177,
+      "count": 3
+    },
+    {
+      "crop": "Soyabean",
+      "state": "Karnataka",
+      "mean": 4425.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Soyabean",
+      "state": "Madhya Pradesh",
+      "mean": 4119.238095238095,
+      "std": 342.6528716882299,
+      "count": 21
+    },
+    {
+      "crop": "Spinach",
+      "state": "Gujarat",
+      "mean": 1000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Spinach",
+      "state": "Haryana",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Spinach",
+      "state": "Himachal Pradesh",
+      "mean": 2083.3333333333335,
+      "std": 292.9732638541157,
+      "count": 3
+    },
+    {
+      "crop": "Spinach",
+      "state": "Jammu and Kashmir",
+      "mean": 1250.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Spinach",
+      "state": "Madhya Pradesh",
+      "mean": 900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Spinach",
+      "state": "Maharashtra",
+      "mean": 718.6,
+      "std": 965.8254500684893,
+      "count": 5
+    },
+    {
+      "crop": "Spinach",
+      "state": "Punjab",
+      "mean": 2050.0,
+      "std": 1369.9148392023012,
+      "count": 4
+    },
+    {
+      "crop": "Spinach",
+      "state": "Uttar Pradesh",
+      "mean": 1415.0,
+      "std": 304.05591591021545,
+      "count": 2
+    },
+    {
+      "crop": "Sponge gourd",
+      "state": "Gujarat",
+      "mean": 2750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sponge gourd",
+      "state": "Madhya Pradesh",
+      "mean": 1200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sponge gourd",
+      "state": "Punjab",
+      "mean": 1500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sponge gourd",
+      "state": "Rajasthan",
+      "mean": 2400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Squash(Chappal Kadoo)",
+      "state": "West Bengal",
+      "mean": 1700.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Surat Beans (Papadi)",
+      "state": "Gujarat",
+      "mean": 10000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Gujarat",
+      "mean": 2750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Haryana",
+      "mean": 3500.0,
+      "std": 1414.213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Kerala",
+      "mean": 4000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Maharashtra",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Odisha",
+      "mean": 1900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Punjab",
+      "mean": 2200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Potato",
+      "state": "Tamil Nadu",
+      "mean": 4540.579710144928,
+      "std": 940.6379000412607,
+      "count": 69
+    },
+    {
+      "crop": "Sweet Pumpkin",
+      "state": "Karnataka",
+      "mean": 1400.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Pumpkin",
+      "state": "Punjab",
+      "mean": 900.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Sweet Pumpkin",
+      "state": "West Bengal",
+      "mean": 2421.4285714285716,
+      "std": 426.0840516231733,
+      "count": 7
+    },
+    {
+      "crop": "Tamarind Fruit",
+      "state": "Tamil Nadu",
+      "mean": 15176.470588235294,
+      "std": 2674.7732174346825,
+      "count": 17
+    },
+    {
+      "crop": "Tapioca",
+      "state": "Kerala",
+      "mean": 3084.6153846153848,
+      "std": 825.475775786459,
+      "count": 13
+    },
+    {
+      "crop": "Tapioca",
+      "state": "Tamil Nadu",
+      "mean": 3156.9767441860463,
+      "std": 619.2102555911642,
+      "count": 86
+    },
+    {
+      "crop": "Tender Coconut",
+      "state": "Karnataka",
+      "mean": 20000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Tender Coconut",
+      "state": "Tamil Nadu",
+      "mean": 3419.3548387096776,
+      "std": 647.7802475180637,
+      "count": 62
+    },
+    {
+      "crop": "Thogrikai",
+      "state": "Karnataka",
+      "mean": 5200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Thondekai",
+      "state": "Karnataka",
+      "mean": 5600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Thondekai",
+      "state": "Tamil Nadu",
+      "mean": 5389.285714285715,
+      "std": 1122.499132706119,
+      "count": 84
+    },
+    {
+      "crop": "Tinda",
+      "state": "Rajasthan",
+      "mean": 3400.0,
+      "std": 2262.741699796952,
+      "count": 2
+    },
+    {
+      "crop": "Tomato",
+      "state": "Andhra Pradesh",
+      "mean": 1766.6666666666667,
+      "std": 208.16659994661325,
+      "count": 3
+    },
+    {
+      "crop": "Tomato",
+      "state": "Chandigarh",
+      "mean": 1600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Tomato",
+      "state": "Gujarat",
+      "mean": 2112.5,
+      "std": 1426.169111057077,
+      "count": 4
+    },
+    {
+      "crop": "Tomato",
+      "state": "Haryana",
+      "mean": 2041.6666666666667,
+      "std": 425.77914320440686,
+      "count": 12
+    },
+    {
+      "crop": "Tomato",
+      "state": "Himachal Pradesh",
+      "mean": 2335.714285714286,
+      "std": 654.9263862668623,
+      "count": 7
+    },
+    {
+      "crop": "Tomato",
+      "state": "Jammu and Kashmir",
+      "mean": 2316.6666666666665,
+      "std": 76.37626158259732,
+      "count": 3
+    },
+    {
+      "crop": "Tomato",
+      "state": "Karnataka",
+      "mean": 2150.0,
+      "std": 212.13203435596427,
+      "count": 2
+    },
+    {
+      "crop": "Tomato",
+      "state": "Kerala",
+      "mean": 3255.4117647058824,
+      "std": 844.3624117361817,
+      "count": 17
+    },
+    {
+      "crop": "Tomato",
+      "state": "Madhya Pradesh",
+      "mean": 1400.0,
+      "std": 141.4213562373095,
+      "count": 2
+    },
+    {
+      "crop": "Tomato",
+      "state": "Maharashtra",
+      "mean": 1373.0,
+      "std": 377.8491762595229,
+      "count": 5
+    },
+    {
+      "crop": "Tomato",
+      "state": "Nagaland",
+      "mean": 6100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Tomato",
+      "state": "Odisha",
+      "mean": 3000.0,
+      "std": 0.0,
+      "count": 2
+    },
+    {
+      "crop": "Tomato",
+      "state": "Punjab",
+      "mean": 2445.8333333333335,
+      "std": 845.9686039019881,
+      "count": 12
+    },
+    {
+      "crop": "Tomato",
+      "state": "Rajasthan",
+      "mean": 1800.0,
+      "std": 438.1780460041329,
+      "count": 6
+    },
+    {
+      "crop": "Tomato",
+      "state": "Tamil Nadu",
+      "mean": 3062.8865979381444,
+      "std": 527.636156920038,
+      "count": 97
+    },
+    {
+      "crop": "Tomato",
+      "state": "Telangana",
+      "mean": 1800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Tomato",
+      "state": "Tripura",
+      "mean": 4950.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Tomato",
+      "state": "Uttar Pradesh",
+      "mean": 1868.5,
+      "std": 422.6735084398384,
+      "count": 20
+    },
+    {
+      "crop": "Tomato",
+      "state": "Uttrakhand",
+      "mean": 1600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Tomato",
+      "state": "West Bengal",
+      "mean": 3238.4615384615386,
+      "std": 526.8435275905955,
+      "count": 13
+    },
+    {
+      "crop": "Tube Flower",
+      "state": "Tamil Nadu",
+      "mean": 100500.0,
+      "std": 66540.71435344429,
+      "count": 4
+    },
+    {
+      "crop": "Tube Rose(Loose)",
+      "state": "Tamil Nadu",
+      "mean": 12833.333333333334,
+      "std": 4242.640687119285,
+      "count": 9
+    },
+    {
+      "crop": "Turmeric",
+      "state": "Karnataka",
+      "mean": 12500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turmeric",
+      "state": "West Bengal",
+      "mean": 16700.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turmeric (raw)",
+      "state": "Gujarat",
+      "mean": 5000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turnip",
+      "state": "Himachal Pradesh",
+      "mean": 3500.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turnip",
+      "state": "Jammu and Kashmir",
+      "mean": 2100.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turnip",
+      "state": "Punjab",
+      "mean": 2800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Turnip",
+      "state": "Tamil Nadu",
+      "mean": 5571.428571428572,
+      "std": 2405.3511772118195,
+      "count": 7
+    },
+    {
+      "crop": "Water Melon",
+      "state": "Haryana",
+      "mean": 2200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Water Melon",
+      "state": "Kerala",
+      "mean": 3000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Water Melon",
+      "state": "Maharashtra",
+      "mean": 2000.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Water Melon",
+      "state": "Punjab",
+      "mean": 2600.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Water Melon",
+      "state": "Rajasthan",
+      "mean": 3200.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Water Melon",
+      "state": "Tamil Nadu",
+      "mean": 2062.5,
+      "std": 813.9410298049853,
+      "count": 16
+    },
+    {
+      "crop": "Wheat",
+      "state": "Gujarat",
+      "mean": 2627.5,
+      "std": 73.08670649760234,
+      "count": 4
+    },
+    {
+      "crop": "Wheat",
+      "state": "Madhya Pradesh",
+      "mean": 2446.0344827586205,
+      "std": 101.64837246909445,
+      "count": 29
+    },
+    {
+      "crop": "Wheat",
+      "state": "Maharashtra",
+      "mean": 3350.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Wheat",
+      "state": "Rajasthan",
+      "mean": 2569.3333333333335,
+      "std": 122.6227276377969,
+      "count": 3
+    },
+    {
+      "crop": "Wheat",
+      "state": "Uttar Pradesh",
+      "mean": 2524.1666666666665,
+      "std": 91.1500594258354,
+      "count": 12
+    },
+    {
+      "crop": "Wheat",
+      "state": "West Bengal",
+      "mean": 2766.6666666666665,
+      "std": 233.80903889000243,
+      "count": 6
+    },
+    {
+      "crop": "Wood",
+      "state": "Andhra Pradesh",
+      "mean": 5800.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Wood",
+      "state": "Uttar Pradesh",
+      "mean": 550.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Yam (Ratalu)",
+      "state": "Gujarat",
+      "mean": 6750.0,
+      "std": NaN,
+      "count": 1
+    },
+    {
+      "crop": "Yam (Ratalu)",
+      "state": "Tamil Nadu",
+      "mean": 6162.962962962963,
+      "std": 1574.5193270046293,
+      "count": 81
+    }
+  ],
+  "volatility": [
+    {
+      "crop": "Amaranthus",
+      "std": 1042.245769045825,
+      "mean": 3014.9171270718234,
+      "coefficient_of_variation": 0.3456963243490825
+    },
+    {
+      "crop": "Amla(Nelli Kai)",
+      "std": 1540.2527954714517,
+      "mean": 6637.662337662337,
+      "coefficient_of_variation": 0.23204747652377575
+    },
+    {
+      "crop": "Amphophalus",
+      "std": 1063.4420957010734,
+      "mean": 4709.090909090909,
+      "coefficient_of_variation": 0.2258274720600735
+    },
+    {
+      "crop": "Amranthas Red",
+      "std": NaN,
+      "mean": 54.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Apple",
+      "std": 5784.974501796139,
+      "mean": 10508.65671641791,
+      "coefficient_of_variation": 0.5504960964952013
+    },
+    {
+      "crop": "Arecanut(Betelnut/Supari)",
+      "std": 9205.976319760985,
+      "mean": 36500.0,
+      "coefficient_of_variation": 0.2522185293085201
+    },
+    {
+      "crop": "Arhar (Tur/Red Gram)(Whole)",
+      "std": 151.72343260024144,
+      "mean": 7002.0,
+      "coefficient_of_variation": 0.021668585061445506
+    },
+    {
+      "crop": "Arhar Dal(Tur Dal)",
+      "std": 1273.3445134762235,
+      "mean": 11118.75,
+      "coefficient_of_variation": 0.11452227215075647
+    },
+    {
+      "crop": "Ashgourd",
+      "std": 655.913141878893,
+      "mean": 2667.080745341615,
+      "coefficient_of_variation": 0.2459292404343311
+    },
+    {
+      "crop": "Bajra(Pearl Millet/Cumbu)",
+      "std": 158.33055180969856,
+      "mean": 2242.818181818182,
+      "coefficient_of_variation": 0.07059446596841167
+    },
+    {
+      "crop": "Banana",
+      "std": 1586.7870198478481,
+      "mean": 3902.5,
+      "coefficient_of_variation": 0.4066078205888144
+    },
+    {
+      "crop": "Banana - Green",
+      "std": 832.7948402172706,
+      "mean": 3140.9473684210525,
+      "coefficient_of_variation": 0.2651412909971538
+    },
+    {
+      "crop": "Beans",
+      "std": 1713.8244001968746,
+      "mean": 8355.474452554745,
+      "coefficient_of_variation": 0.20511395372322164
+    },
+    {
+      "crop": "Beetroot",
+      "std": 1411.9865850864803,
+      "mean": 4931.290322580645,
+      "coefficient_of_variation": 0.2863320739038457
+    },
+    {
+      "crop": "Bengal Gram(Gram)(Whole)",
+      "std": 1513.9156185203983,
+      "mean": 7760.5,
+      "coefficient_of_variation": 0.19507964931646135
+    },
+    {
+      "crop": "Betal Leaves",
+      "std": 5711.668912385056,
+      "mean": 13823.529411764706,
+      "coefficient_of_variation": 0.4131845596193444
+    },
+    {
+      "crop": "Bhindi(Ladies Finger)",
+      "std": 1162.0913479039277,
+      "mean": 3994.1630901287554,
+      "coefficient_of_variation": 0.290947395407048
+    },
+    {
+      "crop": "Bitter gourd",
+      "std": 1852.481343498859,
+      "mean": 5407.054794520548,
+      "coefficient_of_variation": 0.34260450724045627
+    },
+    {
+      "crop": "Black Gram (Urd Beans)(Whole)",
+      "std": 1859.69083452062,
+      "mean": 5315.0,
+      "coefficient_of_variation": 0.3498947948298438
+    },
+    {
+      "crop": "Black pepper",
+      "std": 13133.925536563696,
+      "mean": 59000.0,
+      "coefficient_of_variation": 0.2226089073993847
+    },
+    {
+      "crop": "Bottle gourd",
+      "std": 1001.7185551956013,
+      "mean": 2655.068181818182,
+      "coefficient_of_variation": 0.3772854354759461
+    },
+    {
+      "crop": "Brinjal",
+      "std": 2538.9378481057706,
+      "mean": 5230.846560846561,
+      "coefficient_of_variation": 0.4853780011652394
+    },
+    {
+      "crop": "Cabbage",
+      "std": 1028.0055610763857,
+      "mean": 3154.819587628866,
+      "coefficient_of_variation": 0.3258524085204585
+    },
+    {
+      "crop": "Capsicum",
+      "std": 1679.965986050228,
+      "mean": 6971.428571428572,
+      "coefficient_of_variation": 0.2409787275072048
+    },
+    {
+      "crop": "Carrot",
+      "std": 2026.8544498900167,
+      "mean": 6605.681818181818,
+      "coefficient_of_variation": 0.3068350104770712
+    },
+    {
+      "crop": "Cashewnuts",
+      "std": NaN,
+      "mean": 12100.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Castor Seed",
+      "std": 141.4213562373095,
+      "mean": 5700.0,
+      "coefficient_of_variation": 0.024810764252159563
+    },
+    {
+      "crop": "Cauliflower",
+      "std": 1824.1081505915347,
+      "mean": 4098.802395209581,
+      "coefficient_of_variation": 0.4450344209624343
+    },
+    {
+      "crop": "Chikoos(Sapota)",
+      "std": 964.0252891208384,
+      "mean": 4603.125,
+      "coefficient_of_variation": 0.20942844027065055
+    },
+    {
+      "crop": "Chili Red",
+      "std": 2886.7513459481283,
+      "mean": 18333.333333333332,
+      "coefficient_of_variation": 0.15745916432444337
+    },
+    {
+      "crop": "Chilly Capsicum",
+      "std": 331.66247903553995,
+      "mean": 3950.0,
+      "coefficient_of_variation": 0.08396518456595949
+    },
+    {
+      "crop": "Chow Chow",
+      "std": 609.5505947959123,
+      "mean": 2915.3225806451615,
+      "coefficient_of_variation": 0.2090851279521248
+    },
+    {
+      "crop": "Cluster beans",
+      "std": 788.5302679399208,
+      "mean": 4728.205128205128,
+      "coefficient_of_variation": 0.1667715859525863
+    },
+    {
+      "crop": "Coconut",
+      "std": 1883.3819641748241,
+      "mean": 7076.023391812865,
+      "coefficient_of_variation": 0.2661638974164421
+    },
+    {
+      "crop": "Coconut Oil",
+      "std": 3111.269837220809,
+      "mean": 39600.0,
+      "coefficient_of_variation": 0.07856742013183862
+    },
+    {
+      "crop": "Coconut Seed",
+      "std": 4181.876999398146,
+      "mean": 9014.285714285714,
+      "coefficient_of_variation": 0.46391662433893854
+    },
+    {
+      "crop": "Coffee",
+      "std": NaN,
+      "mean": 23600.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Colacasia",
+      "std": 1419.870751427389,
+      "mean": 4978.378378378378,
+      "coefficient_of_variation": 0.2852074799284115
+    },
+    {
+      "crop": "Copra",
+      "std": 707.1067811865476,
+      "mean": 19600.0,
+      "coefficient_of_variation": 0.036076876591150386
+    },
+    {
+      "crop": "Coriander(Leaves)",
+      "std": 2014.82052852736,
+      "mean": 6096.971264367816,
+      "coefficient_of_variation": 0.33046252658306946
+    },
+    {
+      "crop": "Cotton",
+      "std": 537.1151597238668,
+      "mean": 6851.863636363636,
+      "coefficient_of_variation": 0.07838964524532191
+    },
+    {
+      "crop": "Cowpea(Veg)",
+      "std": 1499.5836459703305,
+      "mean": 4870.109756097561,
+      "coefficient_of_variation": 0.30791578035644784
+    },
+    {
+      "crop": "Cucumbar(Kheera)",
+      "std": 1574.6578567278716,
+      "mean": 3452.482269503546,
+      "coefficient_of_variation": 0.4560944079676046
+    },
+    {
+      "crop": "Custard Apple (Sharifa)",
+      "std": 1472.442569750047,
+      "mean": 4560.606060606061,
+      "coefficient_of_variation": 0.3228611614734322
+    },
+    {
+      "crop": "Dhaincha",
+      "std": NaN,
+      "mean": 8435.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Drumstick",
+      "std": 1607.1013290401274,
+      "mean": 8112.8654970760235,
+      "coefficient_of_variation": 0.19809293394785685
+    },
+    {
+      "crop": "Dry Chillies",
+      "std": 636.3961030678928,
+      "mean": 14650.0,
+      "coefficient_of_variation": 0.043440007035351044
+    },
+    {
+      "crop": "Duster Beans",
+      "std": NaN,
+      "mean": 8000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Elephant Yam (Suran)",
+      "std": 1146.201752466135,
+      "mean": 5174.311926605505,
+      "coefficient_of_variation": 0.2215177145723559
+    },
+    {
+      "crop": "Field Pea",
+      "std": 530.3300858899106,
+      "mean": 5375.0,
+      "coefficient_of_variation": 0.09866606249114616
+    },
+    {
+      "crop": "Fig(Anjura/Anjeer)",
+      "std": NaN,
+      "mean": 15000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Firewood",
+      "std": NaN,
+      "mean": 320.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Fish",
+      "std": NaN,
+      "mean": 16800.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "French Beans (Frasbean)",
+      "std": 1905.7223768896083,
+      "mean": 6630.0,
+      "coefficient_of_variation": 0.2874392725323693
+    },
+    {
+      "crop": "Garlic",
+      "std": 3965.3667201439544,
+      "mean": 11094.533333333333,
+      "coefficient_of_variation": 0.35741626988762826
+    },
+    {
+      "crop": "Ginger(Dry)",
+      "std": 6647.932009279276,
+      "mean": 8466.666666666666,
+      "coefficient_of_variation": 0.7851888199936153
+    },
+    {
+      "crop": "Ginger(Green)",
+      "std": 2405.369380695018,
+      "mean": 8714.035087719298,
+      "coefficient_of_variation": 0.2760339333594042
+    },
+    {
+      "crop": "Gram Raw(Chholia)",
+      "std": NaN,
+      "mean": 4000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Grapes",
+      "std": 2259.680031808452,
+      "mean": 10384.615384615385,
+      "coefficient_of_variation": 0.21759881787785093
+    },
+    {
+      "crop": "Green Avare (W)",
+      "std": 2927.899136655903,
+      "mean": 10213.75,
+      "coefficient_of_variation": 0.28666250267099774
+    },
+    {
+      "crop": "Green Chilli",
+      "std": 1748.6698410372605,
+      "mean": 4794.645833333333,
+      "coefficient_of_variation": 0.3647130365459237
+    },
+    {
+      "crop": "Green Gram (Moong)(Whole)",
+      "std": 1396.5358928434314,
+      "mean": 5487.5,
+      "coefficient_of_variation": 0.2544940123632677
+    },
+    {
+      "crop": "Green Gram Dal (Moong Dal)",
+      "std": 1537.957249080741,
+      "mean": 10912.5,
+      "coefficient_of_variation": 0.1409353721952569
+    },
+    {
+      "crop": "Green Peas",
+      "std": 7943.083244469456,
+      "mean": 23240.0,
+      "coefficient_of_variation": 0.3417849933076358
+    },
+    {
+      "crop": "Ground Nut Seed",
+      "std": NaN,
+      "mean": 9808.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Groundnut",
+      "std": 982.2190338423386,
+      "mean": 6187.755102040816,
+      "coefficient_of_variation": 0.15873592565393996
+    },
+    {
+      "crop": "Groundnut pods (raw)",
+      "std": NaN,
+      "mean": 4500.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Guar",
+      "std": 1993.6635735360278,
+      "mean": 5705.0,
+      "coefficient_of_variation": 0.3494589962376911
+    },
+    {
+      "crop": "Guava",
+      "std": 1636.0030493042218,
+      "mean": 5628.070175438596,
+      "coefficient_of_variation": 0.2906863273389671
+    },
+    {
+      "crop": "Gur(Jaggery)",
+      "std": 568.8513182038188,
+      "mean": 3883.6,
+      "coefficient_of_variation": 0.146475259605474
+    },
+    {
+      "crop": "Indian Beans (Seam)",
+      "std": 1500.7702242414734,
+      "mean": 6980.952380952381,
+      "coefficient_of_variation": 0.21498072789270767
+    },
+    {
+      "crop": "Jasmine",
+      "std": 15555.305605083187,
+      "mean": 59590.90909090909,
+      "coefficient_of_variation": 0.26103487666806263
+    },
+    {
+      "crop": "Jowar(Sorghum)",
+      "std": 863.4958019585272,
+      "mean": 2862.5,
+      "coefficient_of_variation": 0.30165792208158154
+    },
+    {
+      "crop": "Jute",
+      "std": 327.87192621510013,
+      "mean": 8550.0,
+      "coefficient_of_variation": 0.03834759370936844
+    },
+    {
+      "crop": "Kabuli Chana(Chickpeas-White)",
+      "std": NaN,
+      "mean": 8005.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Kakada",
+      "std": 10137.937550497032,
+      "mean": 49444.444444444445,
+      "coefficient_of_variation": 0.20503693922353547
+    },
+    {
+      "crop": "Karbuja(Musk Melon)",
+      "std": 408.248290463863,
+      "mean": 6500.0,
+      "coefficient_of_variation": 0.06280742930213276
+    },
+    {
+      "crop": "Kinnow",
+      "std": 530.3300858899106,
+      "mean": 1875.0,
+      "coefficient_of_variation": 0.282842712474619
+    },
+    {
+      "crop": "Knool Khol",
+      "std": 2537.489509325252,
+      "mean": 7055.0847457627115,
+      "coefficient_of_variation": 0.35966818270315887
+    },
+    {
+      "crop": "Kodo Millet(Varagu)",
+      "std": NaN,
+      "mean": 2000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Kulthi(Horse Gram)",
+      "std": NaN,
+      "mean": 3200.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Leafy Vegetable",
+      "std": 2759.830912694955,
+      "mean": 2850.0,
+      "coefficient_of_variation": 0.9683617237526158
+    },
+    {
+      "crop": "Lemon",
+      "std": 2225.1729105364343,
+      "mean": 7362.0809248554915,
+      "coefficient_of_variation": 0.30224782004554124
+    },
+    {
+      "crop": "Lime",
+      "std": 6333.856682296287,
+      "mean": 7974.137931034483,
+      "coefficient_of_variation": 0.7942998650231019
+    },
+    {
+      "crop": "Little gourd (Kundru)",
+      "std": 1771.696670118531,
+      "mean": 5890.909090909091,
+      "coefficient_of_variation": 0.3007509779522198
+    },
+    {
+      "crop": "Long Melon(Kakri)",
+      "std": NaN,
+      "mean": 3000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Mahua",
+      "std": NaN,
+      "mean": 3100.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Maize",
+      "std": 722.1075591394209,
+      "mean": 2232.5666666666666,
+      "coefficient_of_variation": 0.32344277549282036
+    },
+    {
+      "crop": "Mango",
+      "std": 3049.5901363953817,
+      "mean": 7100.0,
+      "coefficient_of_variation": 0.4295197375204763
+    },
+    {
+      "crop": "Mango (Raw-Ripe)",
+      "std": 952.6646823792494,
+      "mean": 5263.675213675214,
+      "coefficient_of_variation": 0.18098850018409057
+    },
+    {
+      "crop": "Marigold(Calcutta)",
+      "std": 7374.923237134282,
+      "mean": 17291.666666666668,
+      "coefficient_of_variation": 0.42650158479812716
+    },
+    {
+      "crop": "Mashrooms",
+      "std": 9231.521700554109,
+      "mean": 14066.666666666666,
+      "coefficient_of_variation": 0.6562693152052684
+    },
+    {
+      "crop": "Masur Dal",
+      "std": 0.0,
+      "mean": 9500.0,
+      "coefficient_of_variation": 0.0
+    },
+    {
+      "crop": "Methi(Leaves)",
+      "std": 1422.1399759204826,
+      "mean": 2033.111111111111,
+      "coefficient_of_variation": 0.6994895498570524
+    },
+    {
+      "crop": "Mint(Pudina)",
+      "std": 1207.1704345382052,
+      "mean": 4542.339743589743,
+      "coefficient_of_variation": 0.26575960907411045
+    },
+    {
+      "crop": "Moath Dal",
+      "std": 214.2533546995239,
+      "mean": 3818.5,
+      "coefficient_of_variation": 0.05610929807503572
+    },
+    {
+      "crop": "Mousambi(Sweet Lime)",
+      "std": 1693.0285038800043,
+      "mean": 4772.093023255814,
+      "coefficient_of_variation": 0.35477692820097556
+    },
+    {
+      "crop": "Mustard",
+      "std": 444.29518823155655,
+      "mean": 6803.75,
+      "coefficient_of_variation": 0.06530151581577168
+    },
+    {
+      "crop": "Mustard Oil",
+      "std": 35.35533905932738,
+      "mean": 16225.0,
+      "coefficient_of_variation": 0.0021790655814685595
+    },
+    {
+      "crop": "Onion",
+      "std": 986.6307088181944,
+      "mean": 2685.740740740741,
+      "coefficient_of_variation": 0.36735887937793904
+    },
+    {
+      "crop": "Onion Green",
+      "std": 1280.4964392056024,
+      "mean": 5566.426751592357,
+      "coefficient_of_variation": 0.23003921480495507
+    },
+    {
+      "crop": "Orange",
+      "std": 4475.484295293567,
+      "mean": 8781.25,
+      "coefficient_of_variation": 0.5096636919907265
+    },
+    {
+      "crop": "Paddy(Dhan)(Basmati)",
+      "std": 513.8041380795725,
+      "mean": 3106.230769230769,
+      "coefficient_of_variation": 0.16541080693975985
+    },
+    {
+      "crop": "Paddy(Dhan)(Common)",
+      "std": 305.860996755272,
+      "mean": 2322.6481481481483,
+      "coefficient_of_variation": 0.13168632407759892
+    },
+    {
+      "crop": "Papaya",
+      "std": 693.0963447482957,
+      "mean": 3209.4827586206898,
+      "coefficient_of_variation": 0.21595266180715095
+    },
+    {
+      "crop": "Papaya (Raw)",
+      "std": 682.367203197809,
+      "mean": 1837.5,
+      "coefficient_of_variation": 0.3713563010600321
+    },
+    {
+      "crop": "Pear(Marasebu)",
+      "std": 4242.640687119285,
+      "mean": 13000.0,
+      "coefficient_of_variation": 0.32635697593225266
+    },
+    {
+      "crop": "Peas Wet",
+      "std": 4937.675670357564,
+      "mean": 12119.23076923077,
+      "coefficient_of_variation": 0.407424841095832
+    },
+    {
+      "crop": "Peas cod",
+      "std": 2380.4761428476168,
+      "mean": 11500.0,
+      "coefficient_of_variation": 0.20699792546501014
+    },
+    {
+      "crop": "Peas(Dry)",
+      "std": 1210.7160415776002,
+      "mean": 5533.333333333333,
+      "coefficient_of_variation": 0.2188041038995663
+    },
+    {
+      "crop": "Pegeon Pea (Arhar Fali)",
+      "std": NaN,
+      "mean": 9250.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Pepper garbled",
+      "std": NaN,
+      "mean": 67100.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Pepper ungarbled",
+      "std": NaN,
+      "mean": 61000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Persimon(Japani Fal)",
+      "std": NaN,
+      "mean": 8500.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Pineapple",
+      "std": 1563.0202359740952,
+      "mean": 5264.5161290322585,
+      "coefficient_of_variation": 0.29689722619605974
+    },
+    {
+      "crop": "Pointed gourd (Parval)",
+      "std": 1638.4138671288156,
+      "mean": 3730.0,
+      "coefficient_of_variation": 0.4392530474876181
+    },
+    {
+      "crop": "Pomegranate",
+      "std": 5302.10357272643,
+      "mean": 15701.530612244898,
+      "coefficient_of_variation": 0.33768068245471333
+    },
+    {
+      "crop": "Potato",
+      "std": 1552.1635552117757,
+      "mean": 2741.6666666666665,
+      "coefficient_of_variation": 0.5661386827520155
+    },
+    {
+      "crop": "Pumpkin",
+      "std": 727.6361848580693,
+      "mean": 2503.957219251337,
+      "coefficient_of_variation": 0.2905944954904727
+    },
+    {
+      "crop": "Raddish",
+      "std": 1426.843892253246,
+      "mean": 3811.728723404255,
+      "coefficient_of_variation": 0.3743298633746768
+    },
+    {
+      "crop": "Rat Tail Radish (Mogari)",
+      "std": NaN,
+      "mean": 7750.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Rice",
+      "std": 699.7438666962212,
+      "mean": 3743.5135135135133,
+      "coefficient_of_variation": 0.18692168845397578
+    },
+    {
+      "crop": "Ridgeguard(Tori)",
+      "std": 1134.6166545711328,
+      "mean": 5166.875,
+      "coefficient_of_variation": 0.2195943688537332
+    },
+    {
+      "crop": "Rose(Local)",
+      "std": 5640.819140843832,
+      "mean": 17416.666666666668,
+      "coefficient_of_variation": 0.32387478320634444
+    },
+    {
+      "crop": "Round gourd",
+      "std": 975.1068317540049,
+      "mean": 2783.3333333333335,
+      "coefficient_of_variation": 0.35033778386371434
+    },
+    {
+      "crop": "Rubber",
+      "std": NaN,
+      "mean": 18400.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Seemebadnekai",
+      "std": NaN,
+      "mean": 2000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Seetapal",
+      "std": NaN,
+      "mean": 1250.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Sesamum(Sesame,Gingelly,Til)",
+      "std": NaN,
+      "mean": 10305.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Snakeguard",
+      "std": 1037.9397301459442,
+      "mean": 4661.714285714285,
+      "coefficient_of_variation": 0.22265194015143447
+    },
+    {
+      "crop": "Soyabean",
+      "std": 320.3655828372745,
+      "mean": 4143.76,
+      "coefficient_of_variation": 0.07731277459053479
+    },
+    {
+      "crop": "Spinach",
+      "std": 955.1924847937906,
+      "mean": 1401.2777777777778,
+      "coefficient_of_variation": 0.6816581979260291
+    },
+    {
+      "crop": "Sponge gourd",
+      "std": 731.8640584152223,
+      "mean": 1962.5,
+      "coefficient_of_variation": 0.3729243609759095
+    },
+    {
+      "crop": "Squash(Chappal Kadoo)",
+      "std": 141.4213562373095,
+      "mean": 1700.0,
+      "coefficient_of_variation": 0.0831890330807703
+    },
+    {
+      "crop": "Surat Beans (Papadi)",
+      "std": NaN,
+      "mean": 10000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Sweet Potato",
+      "std": 1039.7543147723504,
+      "mean": 4396.710526315789,
+      "coefficient_of_variation": 0.2364845965066546
+    },
+    {
+      "crop": "Sweet Pumpkin",
+      "std": 682.7233049421347,
+      "mean": 2138.8888888888887,
+      "coefficient_of_variation": 0.3191953114015176
+    },
+    {
+      "crop": "Tamarind Fruit",
+      "std": 2674.7732174346825,
+      "mean": 15176.470588235294,
+      "coefficient_of_variation": 0.176244746885231
+    },
+    {
+      "crop": "Tapioca",
+      "std": 645.4461254716887,
+      "mean": 3147.4747474747473,
+      "coefficient_of_variation": 0.20506792818259686
+    },
+    {
+      "crop": "Tender Coconut",
+      "std": 2185.5492911497236,
+      "mean": 3682.5396825396824,
+      "coefficient_of_variation": 0.5934896782001404
+    },
+    {
+      "crop": "Thogrikai",
+      "std": NaN,
+      "mean": 5200.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Thondekai",
+      "std": 1116.031635144926,
+      "mean": 5391.764705882353,
+      "coefficient_of_variation": 0.2069881932954805
+    },
+    {
+      "crop": "Tinda",
+      "std": 2262.741699796952,
+      "mean": 3400.0,
+      "coefficient_of_variation": 0.6655122646461624
+    },
+    {
+      "crop": "Tomato",
+      "std": 846.3232511064602,
+      "mean": 2712.5095238095237,
+      "coefficient_of_variation": 0.3120074763526951
+    },
+    {
+      "crop": "Tube Flower",
+      "std": 66540.71435344429,
+      "mean": 100500.0,
+      "coefficient_of_variation": 0.6620966602332765
+    },
+    {
+      "crop": "Tube Rose(Loose)",
+      "std": 4242.640687119285,
+      "mean": 12833.333333333334,
+      "coefficient_of_variation": 0.3305953782170871
+    },
+    {
+      "crop": "Turmeric",
+      "std": 2969.8484809834995,
+      "mean": 14600.0,
+      "coefficient_of_variation": 0.20341427951941776
+    },
+    {
+      "crop": "Turmeric (raw)",
+      "std": NaN,
+      "mean": 5000.0,
+      "coefficient_of_variation": NaN
+    },
+    {
+      "crop": "Turnip",
+      "std": 2399.629601047258,
+      "mean": 4740.0,
+      "coefficient_of_variation": 0.5062509706850755
+    },
+    {
+      "crop": "Water Melon",
+      "std": 777.1130946681841,
+      "mean": 2190.4761904761904,
+      "coefficient_of_variation": 0.3547690214789536
+    },
+    {
+      "crop": "Wheat",
+      "std": 190.2753064795646,
+      "mean": 2534.418181818182,
+      "coefficient_of_variation": 0.0750765236157917
+    },
+    {
+      "crop": "Wood",
+      "std": 3712.3106012293747,
+      "mean": 3175.0,
+      "coefficient_of_variation": 1.1692316854265747
+    },
+    {
+      "crop": "Yam (Ratalu)",
+      "std": 1566.112190218728,
+      "mean": 6170.121951219512,
+      "coefficient_of_variation": 0.25382191836730056
+    }
+  ]
+}

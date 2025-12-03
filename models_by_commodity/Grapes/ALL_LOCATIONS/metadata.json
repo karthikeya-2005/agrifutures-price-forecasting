@@ -1,0 +1,17 @@
+{
+  "commodity": "Grapes",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9986158013343811,
+  "test_score": 0.7931563258171082,
+  "mse": 166624.0939154625,
+  "mae": 166.82796223958334,
+  "n_samples": 20,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.669978"
+}

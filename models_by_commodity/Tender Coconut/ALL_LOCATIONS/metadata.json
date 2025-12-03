@@ -1,0 +1,17 @@
+{
+  "commodity": "Tender Coconut",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999673962593079,
+  "test_score": 0.974593460559845,
+  "mse": 15033.447105624355,
+  "mae": 34.92032564603365,
+  "n_samples": 50,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.177833"
+}

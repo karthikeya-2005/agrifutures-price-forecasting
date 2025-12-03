@@ -1,0 +1,17 @@
+{
+  "commodity": "Custard Apple (Sharifa)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999924302101135,
+  "test_score": 0.9274899959564209,
+  "mse": 142060.41258238256,
+  "mae": 142.78116280691964,
+  "n_samples": 26,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.420874"
+}

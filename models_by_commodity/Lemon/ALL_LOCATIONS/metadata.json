@@ -1,0 +1,17 @@
+{
+  "commodity": "Lemon",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999720454216003,
+  "test_score": 0.8662725687026978,
+  "mse": 503357.01582678384,
+  "mae": 217.06305803571428,
+  "n_samples": 138,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.439547"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Pineapple",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9940351247787476,
+  "test_score": 0.7581170797348022,
+  "mse": 655848.2725676894,
+  "mae": 625.532470703125,
+  "n_samples": 24,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.516663"
+}

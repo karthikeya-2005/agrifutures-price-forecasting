@@ -1,0 +1,17 @@
+{
+  "commodity": "Garlic",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.999823808670044,
+  "test_score": 0.7014023065567017,
+  "mse": 7986894.701366886,
+  "mae": 1583.4794596354166,
+  "n_samples": 60,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.560812"
+}

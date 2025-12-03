@@ -1,0 +1,17 @@
+{
+  "commodity": "Green Avare (W)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999974966049194,
+  "test_score": 0.9989039301872253,
+  "mse": 7984.06055739522,
+  "mae": 25.779052734375,
+  "n_samples": 64,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.714530"
+}

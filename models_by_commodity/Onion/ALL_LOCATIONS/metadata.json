@@ -1,0 +1,17 @@
+{
+  "commodity": "Onion",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9972731471061707,
+  "test_score": 0.9650907516479492,
+  "mse": 34957.88847619157,
+  "mae": 54.90142822265625,
+  "n_samples": 216,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.176175"
+}

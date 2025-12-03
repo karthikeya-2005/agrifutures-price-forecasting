@@ -1,0 +1,17 @@
+{
+  "commodity": "Cabbage",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9954907298088074,
+  "test_score": 0.977730929851532,
+  "mse": 19494.10690798668,
+  "mae": 69.89174554286859,
+  "n_samples": 155,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.880732"
+}

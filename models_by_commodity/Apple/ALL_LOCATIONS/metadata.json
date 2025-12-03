@@ -1,0 +1,17 @@
+{
+  "commodity": "Apple",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999650120735168,
+  "test_score": 0.7675647139549255,
+  "mse": 6097584.262044703,
+  "mae": 913.8957170758929,
+  "n_samples": 53,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.475786"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Mashrooms",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999997615814209,
+  "test_score": 0.9854112267494202,
+  "mse": 975587.8928475678,
+  "mae": 558.1404541015625,
+  "n_samples": 38,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.910477"
+}

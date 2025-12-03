@@ -1,0 +1,17 @@
+{
+  "commodity": "Drumstick",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.994135320186615,
+  "test_score": 0.9726113080978394,
+  "mse": 77708.68357767377,
+  "mae": 103.58830915178571,
+  "n_samples": 136,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.461003"
+}

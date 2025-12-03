@@ -1,0 +1,17 @@
+{
+  "commodity": "Yam (Ratalu)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999831914901733,
+  "test_score": 0.990032434463501,
+  "mse": 23188.882656174548,
+  "mae": 60.45955882352941,
+  "n_samples": 65,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.436211"
+}

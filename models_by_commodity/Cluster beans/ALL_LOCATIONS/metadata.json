@@ -1,0 +1,17 @@
+{
+  "commodity": "Cluster beans",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9956278204917908,
+  "test_score": 0.8580731153488159,
+  "mse": 74755.53979176842,
+  "mae": 76.49535369873047,
+  "n_samples": 124,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.111353"
+}

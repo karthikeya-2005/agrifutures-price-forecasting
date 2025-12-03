@@ -1,0 +1,17 @@
+{
+  "commodity": "Amaranthus",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9965331554412842,
+  "test_score": 0.985419511795044,
+  "mse": 13082.596937059148,
+  "mae": 40.464880041173984,
+  "n_samples": 144,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.390219"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Cucumbar(Kheera)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9977869987487793,
+  "test_score": 0.9821005463600159,
+  "mse": 35585.75263555553,
+  "mae": 106.18160274110991,
+  "n_samples": 112,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.386869"
+}

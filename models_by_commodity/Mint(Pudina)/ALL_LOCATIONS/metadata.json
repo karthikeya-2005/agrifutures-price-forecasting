@@ -1,0 +1,17 @@
+{
+  "commodity": "Mint(Pudina)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.999997079372406,
+  "test_score": 0.9472168684005737,
+  "mse": 126902.67827964015,
+  "mae": 78.21590423583984,
+  "n_samples": 124,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.996316"
+}

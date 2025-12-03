@@ -1,0 +1,17 @@
+{
+  "commodity": "Cauliflower",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9976847171783447,
+  "test_score": 0.985759973526001,
+  "mse": 36677.43415377815,
+  "mae": 115.12322279986213,
+  "n_samples": 133,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.001476"
+}

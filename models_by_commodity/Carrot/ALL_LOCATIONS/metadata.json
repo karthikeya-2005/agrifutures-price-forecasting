@@ -1,0 +1,17 @@
+{
+  "commodity": "Carrot",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9969322085380554,
+  "test_score": 0.6651461124420166,
+  "mse": 2569109.5440250123,
+  "mae": 377.2129380967882,
+  "n_samples": 140,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.954623"
+}

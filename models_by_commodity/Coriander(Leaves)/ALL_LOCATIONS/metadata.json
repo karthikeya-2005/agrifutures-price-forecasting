@@ -1,0 +1,17 @@
+{
+  "commodity": "Coriander(Leaves)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9989678263664246,
+  "test_score": 0.9968868494033813,
+  "mse": 11533.007734254319,
+  "mae": 43.43133288792202,
+  "n_samples": 139,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.269555"
+}

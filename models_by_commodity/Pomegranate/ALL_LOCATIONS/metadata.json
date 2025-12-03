@@ -1,0 +1,17 @@
+{
+  "commodity": "Pomegranate",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9988864064216614,
+  "test_score": 0.8522721529006958,
+  "mse": 4410045.018659139,
+  "mae": 1038.578564453125,
+  "n_samples": 39,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.571410"
+}

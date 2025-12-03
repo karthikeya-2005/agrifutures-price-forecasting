@@ -1,0 +1,16 @@
+streamlit
+plotly
+xgboost
+lightgbm
+pandas
+requests
+beautifulsoup4
+joblib
+matplotlib
+scikit-learn
+numpy
+selenium
+webdriver-manager
+kaggle
+seaborn
+openpyxl

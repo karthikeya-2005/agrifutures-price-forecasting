@@ -1,0 +1,17 @@
+{
+  "commodity": "Capsicum",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9978672862052917,
+  "test_score": 0.2805379629135132,
+  "mse": 1707964.9660924736,
+  "mae": 466.0838044819079,
+  "n_samples": 72,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.915875"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Orange",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999834895133972,
+  "test_score": 0.9604892134666443,
+  "mse": 188684.19105792046,
+  "mae": 222.68575613839286,
+  "n_samples": 25,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.330143"
+}

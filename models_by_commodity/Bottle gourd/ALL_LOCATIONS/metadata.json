@@ -1,0 +1,17 @@
+{
+  "commodity": "Bottle gourd",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9941195249557495,
+  "test_score": 0.9809191226959229,
+  "mse": 22663.487872045825,
+  "mae": 81.9549893465909,
+  "n_samples": 176,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.801609"
+}

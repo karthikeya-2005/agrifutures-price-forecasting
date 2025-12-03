@@ -1,0 +1,17 @@
+{
+  "commodity": "Rice",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999923706054688,
+  "test_score": 0.9784368872642517,
+  "mse": 5790.626640185714,
+  "mae": 55.96441650390625,
+  "n_samples": 29,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.800518"
+}

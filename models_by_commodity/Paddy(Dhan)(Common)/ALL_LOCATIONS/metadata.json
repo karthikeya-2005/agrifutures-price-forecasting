@@ -1,0 +1,17 @@
+{
+  "commodity": "Paddy(Dhan)(Common)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9998835921287537,
+  "test_score": 0.8688194751739502,
+  "mse": 4826.9612267572775,
+  "mae": 41.92827814275568,
+  "n_samples": 43,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.396718"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Beetroot",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9955661296844482,
+  "test_score": 0.988123893737793,
+  "mse": 19257.83089182454,
+  "mae": 80.21766318044355,
+  "n_samples": 124,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.680107"
+}

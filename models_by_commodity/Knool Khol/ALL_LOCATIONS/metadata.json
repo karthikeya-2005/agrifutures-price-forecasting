@@ -1,0 +1,17 @@
+{
+  "commodity": "Knool Khol",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.999984085559845,
+  "test_score": 0.9975523352622986,
+  "mse": 9195.12087311844,
+  "mae": 42.355448404947914,
+  "n_samples": 47,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.321812"
+}

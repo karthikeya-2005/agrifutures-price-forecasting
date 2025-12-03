@@ -1,0 +1,17 @@
+{
+  "commodity": "Bhindi(Ladies Finger)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.993108332157135,
+  "test_score": 0.9604476094245911,
+  "mse": 55773.26020728052,
+  "mae": 138.57917168799867,
+  "n_samples": 186,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.722941"
+}

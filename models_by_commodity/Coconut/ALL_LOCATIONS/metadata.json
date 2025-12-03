@@ -1,0 +1,17 @@
+{
+  "commodity": "Coconut",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999513030052185,
+  "test_score": 0.9907625317573547,
+  "mse": 14535.951712221758,
+  "mae": 32.22080775669643,
+  "n_samples": 136,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.176711"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Wheat",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999311566352844,
+  "test_score": 0.972109317779541,
+  "mse": 429.67633467370814,
+  "mae": 13.264737215909092,
+  "n_samples": 44,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.383441"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Maize",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9992296695709229,
+  "test_score": 0.9167567491531372,
+  "mse": 52781.31122690605,
+  "mae": 129.4017333984375,
+  "n_samples": 72,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.631577"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Cotton",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999818801879883,
+  "test_score": -1.0738990306854248,
+  "mse": 235719.68751573563,
+  "mae": 339.6056640625,
+  "n_samples": 17,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.306737"
+}

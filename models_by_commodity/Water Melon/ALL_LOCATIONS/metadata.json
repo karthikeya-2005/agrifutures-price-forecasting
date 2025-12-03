@@ -1,0 +1,17 @@
+{
+  "commodity": "Water Melon",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.992289125919342,
+  "test_score": 0.9214452505111694,
+  "mse": 36135.183528777954,
+  "mae": 86.7672607421875,
+  "n_samples": 16,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.331598"
+}

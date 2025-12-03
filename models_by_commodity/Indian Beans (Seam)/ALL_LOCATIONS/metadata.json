@@ -1,0 +1,17 @@
+{
+  "commodity": "Indian Beans (Seam)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999833703041077,
+  "test_score": 0.9560682773590088,
+  "mse": 82396.39247218768,
+  "mae": 136.12798394097223,
+  "n_samples": 33,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.083413"
+}

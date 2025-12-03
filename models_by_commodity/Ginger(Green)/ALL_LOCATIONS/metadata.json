@@ -1,0 +1,17 @@
+{
+  "commodity": "Ginger(Green)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9974629878997803,
+  "test_score": 0.9376991391181946,
+  "mse": 262514.13163221226,
+  "mae": 203.66053292410714,
+  "n_samples": 136,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:44.621910"
+}

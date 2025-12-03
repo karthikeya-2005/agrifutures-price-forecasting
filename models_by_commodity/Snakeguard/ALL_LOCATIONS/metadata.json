@@ -1,0 +1,17 @@
+{
+  "commodity": "Snakeguard",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9858075976371765,
+  "test_score": 0.9910093545913696,
+  "mse": 7004.204924268382,
+  "mae": 34.956326729910714,
+  "n_samples": 140,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.956857"
+}

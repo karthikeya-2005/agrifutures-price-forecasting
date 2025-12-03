@@ -1,0 +1,17 @@
+{
+  "commodity": "Beans",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999911785125732,
+  "test_score": 0.9906318783760071,
+  "mse": 29526.252870031767,
+  "mae": 57.78173828125,
+  "n_samples": 109,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.638277"
+}

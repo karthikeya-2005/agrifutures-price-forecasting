@@ -1,0 +1,17 @@
+{
+  "commodity": "Jasmine",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999828934669495,
+  "test_score": 0.8266470432281494,
+  "mse": 26446731.81499939,
+  "mae": 2816.84140625,
+  "n_samples": 17,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.185575"
+}

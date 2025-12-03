@@ -1,0 +1,17 @@
+{
+  "commodity": "Mango (Raw-Ripe)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.992049515247345,
+  "test_score": 0.8023264408111572,
+  "mse": 170654.75459341457,
+  "mae": 105.6781514485677,
+  "n_samples": 93,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.753556"
+}

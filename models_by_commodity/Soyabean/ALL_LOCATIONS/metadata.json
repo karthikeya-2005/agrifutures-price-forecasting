@@ -1,0 +1,17 @@
+{
+  "commodity": "Soyabean",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999710917472839,
+  "test_score": 0.9629209041595459,
+  "mse": 3571.9784473896025,
+  "mae": 49.68173828125,
+  "n_samples": 20,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.012130"
+}

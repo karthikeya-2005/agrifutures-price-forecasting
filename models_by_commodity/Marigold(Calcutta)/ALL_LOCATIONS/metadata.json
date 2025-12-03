@@ -1,0 +1,17 @@
+{
+  "commodity": "Marigold(Calcutta)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999872446060181,
+  "test_score": 0.9357107877731323,
+  "mse": 5415723.1894310955,
+  "mae": 1801.85,
+  "n_samples": 19,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.834507"
+}

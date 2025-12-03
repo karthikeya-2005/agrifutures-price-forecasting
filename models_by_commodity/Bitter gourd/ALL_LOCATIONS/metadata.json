@@ -1,0 +1,17 @@
+{
+  "commodity": "Bitter gourd",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9978040456771851,
+  "test_score": 0.9074209928512573,
+  "mse": 378783.53586746304,
+  "mae": 194.86713460286458,
+  "n_samples": 116,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.762542"
+}

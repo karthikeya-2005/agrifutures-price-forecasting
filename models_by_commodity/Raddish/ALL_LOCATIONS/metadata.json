@@ -1,0 +1,17 @@
+{
+  "commodity": "Raddish",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999779462814331,
+  "test_score": 0.9975403547286987,
+  "mse": 2422.9208312022843,
+  "mae": 14.799634431537829,
+  "n_samples": 150,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:46.749740"
+}

@@ -1,0 +1,17 @@
+{
+  "commodity": "Lime",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999998807907104,
+  "test_score": 0.99045330286026,
+  "mse": 270671.58158528805,
+  "mae": 292.1209309895833,
+  "n_samples": 46,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:45.534541"
+}

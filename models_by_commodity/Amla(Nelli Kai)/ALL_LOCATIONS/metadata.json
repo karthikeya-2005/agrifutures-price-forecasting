@@ -1,0 +1,17 @@
+{
+  "commodity": "Amla(Nelli Kai)",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.9999995827674866,
+  "test_score": 0.992586612701416,
+  "mse": 15630.41872543469,
+  "mae": 31.558364868164062,
+  "n_samples": 61,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:43.430308"
+}

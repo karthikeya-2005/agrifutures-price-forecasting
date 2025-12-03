@@ -1,0 +1,17 @@
+{
+  "commodity": "Thondekai",
+  "state": "ALL",
+  "district": "ALL",
+  "train_score": 0.999997615814209,
+  "test_score": 0.8807706832885742,
+  "mse": 132480.69543824476,
+  "mae": 147.13108915441177,
+  "n_samples": 68,
+  "feature_names": [
+    "min_price",
+    "max_price",
+    "day_of_week",
+    "month"
+  ],
+  "trained_date": "2025-11-23T19:13:47.223867"
+}
